@@ -1,32 +1,32 @@
 ﻿
 [Huds]
-DaysEarlier=TWO DAYS EARLIER...
-EvidenceCopBlood=GCPD Officer: Tony Wicker
-EvidenceWalkTalk=GCPD Police Radio
-HarleyRevengeTitle=&HARLEY QUINN'S REVENGE
-MapShipyard=Shipyard
-OWCopCrimeScene=GCPD Cops Last Known Position
-OWShipyardResBoxPw=HIDEAWAY
+DaysEarlier=ДВА ДНІ ТОМУ...
+EvidenceCopBlood=Офіцер GCPD: Тоні Вікер
+EvidenceWalkTalk=Поліцейська рація GCPD
+HarleyRevengeTitle=&ПОМСТА ГАРЛІ КВІНН
+MapShipyard=Суднобудівний завод
+OWCopCrimeScene=Останнє відоме місце перебування офіцерів GCPD
+OWShipyardResBoxPw=ТАЄМНЕ МІСЦЕ
 
 [Sequencer_Bomb]
-01=DEADBAT
-02=MURDERER
-03=JOKERFOREVER
+01=МЕРТВИЙ БЕТ
+02=ВБИВЦЯ
+03=ДЖОКЕР НАЗАВЖДИ
 
 [Sequencer_OW]
-01=HIDEAWAY
+01=ТАЄМНЕ МІСЦЕ
 
 [Title1]
-CVHarleyNew=Mourning Harley
-CVHarleyThugs=Harley's Thugs
-CVHarleyTitan=Harley's Titan Thug
-Continue=Resume mission from last checkpoint.
-New=Start a new mission set after the events of Arkham City (Contains spoilers from Main Story)
-Title=HARLEY QUINN'S REVENGE
+CVHarleyNew=Убита горем Гарлі
+CVHarleyThugs=Бандити Гарлі
+CVHarleyTitan=Титан-бандит Гарлі
+Continue=Продовжити місію з останньої контрольної точки.
+New=Розпочати нову місію після подій Arkham City (містить спойлери основного сюжету).
+Title=ПОМСТА ГАРЛІ КВІНН
 
 [Tracking]
-PDLCBombs=Detonation Frequency Tracker
+PDLCBombs=Трекер частоти детонації
 
 [UI]
-NeedTitleUpdate=UPDATE REQUIRED
-NeedTitleUpdateInfo=Please install the latest Title Updates before playing this additional Story.
+NeedTitleUpdate=НЕОБХІДНЕ ОНОВЛЕННЯ 
+NeedTitleUpdateInfo=Будь ласка, встановіть останні оновлення гри перед тим, як грати в цей додатковий розділ.
