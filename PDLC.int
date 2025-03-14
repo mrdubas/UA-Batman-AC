@@ -1,28 +1,28 @@
 ﻿
 [AdditionalCredits]
-AdditionalQA00=WB GAMES ADDITIONAL QA
-AdditionalQA01=Lucas Aliaga
-AdditionalQA02=Jason Yeager
-AdditionalQA03=Josh Rodgers
-AdditionalQA04=Michael Cerullo
-AdditionalQA05=Stuart White
-AdditionalQA06=Jacob Weatherspoon
-AdditionalQA07=Julian Cisneros
-Disclaimer=Please refer to the main game for the full credit list.
-Manager00=MANAGER, FIRST PARTY OPERATIONS
-Manager01=Greg Wu
-Thanks=ROCKSTEADY SPECIAL THANKS
+AdditionalQA00=ДОДАТКОВЕ QA WB GAMES
+AdditionalQA01=Лукас Аліага
+AdditionalQA02=Джейсон Йегер
+AdditionalQA03=Джош Роджерс
+AdditionalQA04=Майкл Черулло
+AdditionalQA05=Стюарт Вайт
+AdditionalQA06=Джейкоб Везерспун
+AdditionalQA07=Джуліан Сіснерос
+Disclaimer=Дивіться основну гру для повного списку розробників.
+Manager00=МЕНЕДЖЕР, ОПЕРАЦІЇ ПЕРШОЇ СТОРОНИ
+Manager01=Грег Ву
+Thanks=ОСОБЛИВА ПОДЯКА ROCKSTEADY
 
 [Huds]
-DaysEarlier=TWO DAYS EARLIER...
-EvidenceBloodTrail=Officer's blood trail
-EvidenceCopBlood=GCPD Officer: Tony Wicker
-EvidenceWalkTalk=GCPD Police Radio
-HarleyHealth=HARLEY QUINN
-MapShipyard=Shipyard
-OWCopCrimeScene=GCPD Cops Last Known Position
-OWShipyardResBoxPw=HIDEAWAY
-SpoilerWarning=This chapter takes place after the events of the Main Story mode. It is recommended that you complete the Main Story mode before continuing.
+DaysEarlier=ДВА ДНІ ТОМУ...
+EvidenceBloodTrail=Слід крові офіцера
+EvidenceCopBlood=Офіцер GCPD: Тоні Вікер
+EvidenceWalkTalk=Поліцейська рація GCPD
+HarleyHealth=ГАРЛІ КВІНН
+MapShipyard=Суднобудівний завод
+OWCopCrimeScene=Останнє відоме місце перебування офіцерів GCPD
+OWShipyardResBoxPw=ТАЄМНЕ МІСЦЕ
+SpoilerWarning=Цей розділ відбувається після подій основного сюжетного режиму. Рекомендується спочатку пройти основний сюжетний режим, перш ніж продовжувати.
 
 [TVMOVIE]
-LEFT=You left me to die.
+LEFT=Ти залишив мене помирати.
