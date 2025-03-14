@@ -1931,18 +1931,18 @@ SelectUpToThree=Select up to 3 modifiers:
 StartButton=START!
 
 [Months]
-1=January
-10=October
-11=November
-12=December
-2=February
-3=March
-4=April
-5=May
-6=June
-7=July
-8=August
-9=September
+1=Січня
+10=Жовтня
+11=Листопада
+12=Грудня
+2=Лютого
+3=Березня
+4=Квітня
+5=Травня
+6=Червня
+7=Липня
+8=Серпня
+9=Вересня
 
 [Objectives]
 NewObjective=NEW OBJECTIVE
@@ -2068,36 +2068,36 @@ RestartYN=All unsaved progress will be lost. Are you sure you want to restart fr
 SelectDifficulty=Please choose a difficulty level.
 
 [Progress]
-CurrentStatus=Current Status:
-LastLocation=Last Known Location:
-ViewBio=View Bio
+CurrentStatus=Поточний Статус:
+LastLocation=Останнє Місцезнаходження:
+ViewBio=Переглянути Біографію
 
 [Prompt]
-ACCEPT=Accept
-Actions=Actions
-Adjust=Adjust
-Back=Back
-Cancel=Back
-Close=Close
-Continue=Continue
-Cycle=Cycle
-Delete=Delete
-ExitSession=Exit Session
-Filter=Change Filter
-GamerTag=Gamer card
-Leaderboard=Leaderboard
-Map=Map
-MapChange=Change Map
-MapDetails=Campaign Details
-Move=Move
-Movement=Movement
-Play=Play
-PlayerMenu=Player Menu
-Reset=Defaults
-Scroll=Scroll
-Select=Select
-Show=Show
-Skip=Skip
+ACCEPT=Прийняти
+Actions=Діяти
+Adjust=Налаштувати
+Back=Назад
+Cancel=Назад
+Close=Закрити
+Continue=Продовжити
+Cycle=Змінити
+Delete=Видалити
+ExitSession=Завершити сесію
+Filter=Змінити фільтр
+GamerTag=Карта гравця
+Leaderboard=Таблиця лідерів
+Map=Карта
+MapChange=Змінити мапу
+MapDetails=Деталі кампанії
+Move=Рухати
+Movement=Рухатися
+Play=Грати
+PlayerMenu=Меню гравця
+Reset=За замовчуванням
+Scroll=Прокрутка
+Select=Вибрати
+Show=Показати
+Skip=Пропустити
 
 [RadioScanner]
 Aborted=Cancelled
