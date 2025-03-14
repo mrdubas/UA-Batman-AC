@@ -1,0 +1,69 @@
+﻿
+[Device]
+NoDevice=Are you sure you wish to Continue without selecting a Storage Device? Gameplay will not be saved unless one is selected.
+NoOnB=No
+OverwriteMessage=Are you sure you wish to overwrite the save present on this device?
+RemovedMessage=The selected storage device has been removed. Autosaving is now disabled. You must select a storage device to re-enable autosaving.
+RemovedTitle=Storage Device Removed
+SelectMessage=Are you sure you wish to Continue without selecting a Storage Device? Gameplay will not be saved until one is selected.
+SelectOnA=Continue
+SelectOnB=Choose
+SelectTitle=Storage Device
+YesOnA=Yes
+
+[Error]
+1=A sign-in change occurred. You are now being returned to the title screen.
+10=You have been disconnected due to a duplicate login. You are now being returned to the title screen.
+11=Invalid Xbox LIVE user.
+14=The storage device containing required downloadable content was removed. You are now being returned to the title screen.
+15=New downloadable content is ready for use. You are now being returned to the title screen.
+2=A sign-in change occurred. You are now being returned to the title screen.
+3=A sign-in change occurred. You are now being returned to the title screen.
+5=Connection to Xbox LIVE has been dropped.
+6=No network connection!
+7=Xbox LIVE service is temporarily unavailable.
+8=An update is required before connection to Xbox LIVE is possible.
+9=Xbox LIVE Servers are too busy to handle the request.
+BadDLC_Button=Return to Xbox Dashboard
+BadDLC_ButtonRestart=Restart Batman: Arkham City
+BadDLC_Desc=\nDamaged downloadable content detected.\n\nIf it is corrupt please download it again, or delete it using the Xbox Dashboard.\n\nBatman: Arkham City will now return to the Xbox Dashboard.
+BadDLC_DescRestart=\nMissing downloadable content detected.\n\nIf the content was on a Xbox 360 Memory Unit, please do not remove it during game play.\n\nBatman: Arkham City will now return to the title screen.
+BadDLC_Title=DOWNLOADABLE CONTENT ISSUE
+CorruptDLC=Damaged or unavailable downloadable content detected.\n\nPlease download it again, or delete it from the Xbox Dashboard.
+LiveProblem=Xbox LIVE Issue
+NoLoginNoSave=You have not signed into a Gamer Profile. Are you sure you wish to continue? If you do, you will not be able to save the game, or access any Xbox LIVE Marketplace content.
+SelectorDisabled=The Storage Device Selector is unavailable because you have chosen to play without being able to save your progress.
+StorageDeviceRemoved=The selected storage device has been removed. Please select a different one to continue.
+
+[General]
+SaveGameDetail=Completed: %d%% (%s)
+
+[Prompt]
+DLCStore=Xbox LIVE Marketplace
+
+[UI]
+CatwomanInfo=Catwoman is a unique character with her own story, moves, and weapons. Unlock Catwoman by redeeming the 1st purchaser code included in the game case, or by visiting Xbox LIVE Marketplace.
+ChallengeNeedsLoggedIn=You need to be signed into a Xbox LIVE Gamer Profile and connected to Xbox LIVE to access the leaderboards. Scores will not be recorded on the leaderboards. Do you wish to proceed offline?
+CorruptDLCFound=Corrupt downloadable content detected. It will not be available for use. Please delete it using the Xbox Dashboard.
+CorruptSave=The save is corrupt. Please delete it.
+DLCAvailable=Downloadable Content Available.
+DLCHasChanged_MainMenu=A sign-in or Downloadable Content change has taken place. Returning to the Main Menu.
+DLCNeedsLoggedIn=You need to be signed into a Gamer Profile to access Downloadable Content.
+DLCNeedsSavingEnabled=You need to be signed into a Gamer Profile, and have selected a Storage Device, to access Downloadable Content.
+DeviceHDD=Hard Drive
+DeviceSelector=Select Storage Device
+Gamertag=Gamertag
+GoOnlineForStore=You need to be signed into Xbox LIVE to access the Xbox LIVE Marketplace.
+LeaderboardFetch=Retrieving Leaderboard Results.
+LeaderboardFetchError=Failed to retrieve Leaderboard Results.
+LeaderboardNotOnline=You need to be signed into Xbox LIVE to access the leaderboards.
+Marketplace=Xbox LIVE Marketplace
+NeedFreespace=Insufficient free space to create a new save game. Open the Device selector?
+NoController=Please reconnect the controller.
+NoDLCPresent=New downloadable content available. Connect to Xbox LIVE Marketplace to download.
+NoDLCPresentSoon=Connect to Xbox LIVE Marketplace to download additional content.
+OnlineDisabled=Online service is disabled due to parental control restrictions.
+SavingDesc=This game supports Autosave and this icon will appear whenever game data is being saved.\n\nPlease do not turn off your console while this icon is visible.
+ScanningDLC=Searching for Downloadable Content.\nPlease do not remove any storage device.
+ScanningDLCTitle=Please Wait...
+WBIDMustBeSignedIn=You need to be signed into a Xbox LIVE Profile and connected to Xbox LIVE to access the WBID login.

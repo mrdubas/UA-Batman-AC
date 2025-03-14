@@ -1,0 +1,542 @@
+﻿
+[Alfred]
+02_REALNAME=Alfred Pennyworth
+03_OCCUPATION=Butler
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Gray (formerly black)
+07_HEIGHT=6 ft
+08_WEIGHT=160 lb
+09_FIRST=Batman #16 \n (April-May 1943)
+ATTRIB_01=Skilled actor
+ATTRIB_02=Trained in emergency medical techniques
+ATTRIB_03=Proficiency with mechanical and computer systems
+ATTRIB_04=Expert in domestic sciences
+ATTRIB_05=Unflappable manner
+INFO_01_NAME=ALFRED PENNYWORTH
+STORY=After a varied career, Alfred Pennyworth was employed as the Wayne family's butler. When Bruce Wayne's parents were killed, Alfred raised the young orphan and reluctantly aided him in his quest to become the Batman.\n\nAlfred's many skills—ranging from cooking to combat medicine—make him Batman's staunchest ally, along with a formal demeanor that grounds the Dark Knight and deflects those who might otherwise suspect Bruce Wayne's true identity.
+
+[Azrael]
+02_REALNAME=Michael Lane
+03_OCCUPATION=Police Officer
+04_BASE=Gotham City
+05_EYES=Brown
+06_HAIR=Black
+07_HEIGHT=6 ft 2 in
+08_WEIGHT=210 lbs
+09_FIRST=Azrael: Death's Dark Knight #1 \n (March 2009)
+ATTRIB_01=The Suit of Sorrows bestows enhanced strength, stamina, and speed
+ATTRIB_02=The Sword of Sin burns with the souls of the damned
+ATTRIB_03=Prone to fits of insanity
+ATTRIB_04=Military- and police-trained tactician
+ATTRIB_05=
+INFO_01_NAME=AZRAEL
+STORY=Years ago, Michael Lane was part of a program to create the ultimate crime fighter. Instead, it turned him into an insane criminal.\n\nThwarted by Batman, Michael confessed his sins to a priest of the secret religious sect, the Order of Purity. They recruited Michael to fight evil as their crusader Azrael, wearing the mystical Suit of Sorrows and wielding the Sword of Sin.\n\nIf Michael does not keep his soul pure, the Suit of Sorrows will destroy him.
+
+[Bane]
+02_REALNAME=Unknown
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Brown (when on Venom: Green)
+06_HAIR=Brown
+07_HEIGHT=5 ft 6 in (when on Venom: 9 ft 2 in)
+08_WEIGHT=140 lb (when on Venom: 350 lb)
+09_FIRST=Batman: Vengeance of Bane #1 \n (January 1993)
+ATTRIB_01=Master strategist
+ATTRIB_02=Intense focus
+ATTRIB_03=Abnormally strong reaction to the super-steroid Venom
+ATTRIB_04=Determined to best all who challenge him
+ATTRIB_05=
+INFO_01_NAME=BANE
+STORY=Imprisoned from birth to serve his dead father's sentence, Bane was raised inside the horrific environs of a Santa Priscan prison. Subjected to military experiments with the experimental ultra-steroid Venom, his superhuman strength and iron-forged will helped him to escape. Determined to build a criminal empire, he sought out Batman and broke the Dark Knight's spine.\n\nBut Batman recovered and managed to best Bane, cutting off Bane's precious Venom supply.\n\nSince the events at Arkham Asylum, it's rumored that Bane has turned over a new leaf in an effort to save others from similar addiction.
+
+[Batman]
+02_REALNAME=Bruce Wayne
+03_OCCUPATION=World's Greatest Detective
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Black
+07_HEIGHT=6 ft 2 in
+08_WEIGHT=210 lb
+09_FIRST=Detective Comics #27 \n (May 1939)
+ATTRIB_01=Trained to physical and mental peak
+ATTRIB_02=Arsenal of gadgets, vehicles, and advanced technology
+ATTRIB_03=Inventor, detective, genius-level intelligence
+ATTRIB_04=Expert in most known forms of martial arts
+ATTRIB_05=Trained in all aspects of criminology
+INFO_01_NAME=BATMAN
+STORY=When his parents were gunned down in front of him, young Bruce Wayne resolved to rid Gotham City of the criminal element that took their lives.\n\nHe trained extensively to achieve mental and physical perfection, in addition to mastering martial arts, detective techniques, and criminal psychology.\n\nDressing as a bat to prey on criminals' fears, Batman fights crimes with the aid of specialized gadgets and vehicles, operating out of his secret Batcave below Wayne Manor.
+
+[Black_Mask]
+02_REALNAME=Roman Sionis
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Brown
+06_HAIR=Brown
+07_HEIGHT=6 ft 1 in
+08_WEIGHT=195 lb
+09_FIRST=Batman #386 \n (August 1985)
+ATTRIB_01=Obsessed with masks
+ATTRIB_02=Harbors a hatred of Batman and Bruce Wayne
+ATTRIB_03=Face resembles a black skull
+ATTRIB_04=Feared and powerful mob boss
+ATTRIB_05=Skilled marksman, known for his double handguns
+INFO_01_NAME=BLACK MASK
+STORY=Following the suspicious death of his wealthy parents in a fire, Roman Sionis inherited their fortune and went on to bankrupt their company. Saved with a buyout by Bruce Wayne, Sionis came to resent and hate his rescuer.\n\nFixated on the concept of masks, Sionis carved one from his father's black coffin and sought revenge on Wayne; his ensuing battle with the Dark Knight caused his mask to be burnt into his skin, remaking him as the Black Mask.\n\nSionis is now a feared gang leader and one of the most powerful mob bosses in Gotham, with a burning hatred of the Batman.
+
+[Bruce_Wayne]
+02_REALNAME=Bruce Wayne
+03_OCCUPATION=CEO/Philanthropist
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Black
+07_HEIGHT=6 ft 2 in
+08_WEIGHT=210 lb
+09_FIRST=Detective Comics #27 \n (May 1939)
+ATTRIB_01=Billionaire playboy by day, Batman by night
+ATTRIB_02=Gotham's most eligible bachelor
+ATTRIB_03=
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=BRUCE WAYNE
+STORY=Born into the wealthy Wayne family, Bruce Wayne had an idyllic childhood. But after witnessing his parents' violent murder in Crime Alley, Bruce dedicated his life to battling criminals.\n\nHe circled the globe for years, training his mental and physical abilities to their peak. Gotham City welcomed him home, not knowing that high society's favorite billionaire playboy is also the Batman.\n\nBruce has never been into politics but Batman alone has not been able to stop Arkham City's construction and so he has had no choice but to use his alter ego and invest millions to bring enough political pressure to bear to force its closure. He knows it is a ticking time bomb waiting to explode onto the streets of Gotham.
+
+[Calendar_Man]
+02_REALNAME=Julian Day
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=None (formerly brown)
+07_HEIGHT=5 ft 9 in
+08_WEIGHT=215 lb
+09_FIRST=Detective Comics #259 \n (September 1958)
+ATTRIB_01=Obsessed with quirks of the calendar
+ATTRIB_02=
+ATTRIB_03=
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=CALENDAR MAN
+STORY=Fixated on the calendar, Julian Day became Calendar Man, a villain who timed and tied his crimes thematically to certain holidays throughout the year, often leaving clues by which he could be caught.\n\nGotham City's hopes for a day off are often clouded by the knowledge that any holiday of note is likely to be shadowed by Calendar Man's presence.
+
+[Catwoman]
+02_REALNAME=Selina Kyle
+03_OCCUPATION=Professional Thief
+04_BASE=Gotham City
+05_EYES=Green
+06_HAIR=Black
+07_HEIGHT=5 ft 7 in
+08_WEIGHT=125 lb
+09_FIRST=Batman #1 \n (Spring 1940)
+ATTRIB_01=Trained gymnast and athlete
+ATTRIB_02=Expert hand-to-hand combatant
+ATTRIB_03=Highly skilled with whips
+ATTRIB_04=Unrivaled stealth capabilities
+ATTRIB_05=Obsessed with stealing famous and well-protected items
+INFO_01_NAME=CATWOMAN
+STORY=An orphan who learned to survive on the mean streets of Gotham, Selina Kyle turned to thievery to survive. Determined to do it with style, she learned martial arts and trained in gymnastics to perfect her skills.\n\nHer criminal activities are tempered by a reluctant altruism, making her an inconstant villain and occasional hero. She maintains a complicated, adversarial relationship with Batman that frequently turns flirtatious and occasionally romantic.\n\nSince the opening of Arkham City, reports of Catwoman burglaries are down, though underworld rumors have her hunting down Two-Face for an unknown reason.
+
+[Clayface]
+02_REALNAME=Basil Karlo
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Black
+06_HAIR=None
+07_HEIGHT=8 ft 2 in
+08_WEIGHT=410 lb
+09_FIRST=Detective Comics #40 \n (June 1940)
+ATTRIB_01=Can mimic anything and anyone
+ATTRIB_02=Extremely difficult to injure or contain
+ATTRIB_03=
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=CLAYFACE
+STORY=Horror film icon Basil Karlo went mad when he uncovered plans for his most classic film to be remade with a different actor in the lead role. He took on the mask of the film's villain, Clayface, and killed several of the remake's cast and crew before being stopped by Batman and Robin.\n\nLater, Karlo stole and injected himself with experimental compounds that transformed him into a mass of living clay who can alter his composition to mimic anything... or anyone.
+
+[Deadshot]
+02_REALNAME=Floyd Lawton
+03_OCCUPATION=Mercenary
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Brown
+07_HEIGHT=6 ft 1 in
+08_WEIGHT=193 lbs
+09_FIRST=Batman #59 \n (July 1950)
+ATTRIB_01=Master marksman
+ATTRIB_02=Expert with all firearms and projectiles
+ATTRIB_03=
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=DEADSHOT
+STORY=Floyd Lawton is the deadliest gun-for-hire in the world.\n\nHe never misses a shot, especially with his pair of silenced, wrist-mounted 9mm cannons. Deadshot disdains himself almost as much as his corrupt targets; several prison psychologists have diagnosed him with “suicidal tendencies.”\n\nBatman is the only person who has made Deadshot miss... a distinction that puts the Dark Knight at the top of Deadshot's hit list.
+
+[Dr_Freeze]
+02_REALNAME=Dr. Victor Fries
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=None
+07_HEIGHT=6 ft 3 in
+08_WEIGHT=190 lb
+09_FIRST=Batman #121 \n (February 1959)
+ATTRIB_01=Scientific genius, with a specialty in cryonics
+ATTRIB_02=Employs an extensive array of cryo-weaponry
+ATTRIB_03=Permanently altered to survive in a sub-freezing state
+ATTRIB_04=Wears protective, freezing armor
+ATTRIB_05=Motivated by grief over the fate of his wife Nora
+INFO_01_NAME=MISTER FREEZE
+STORY=Victor Fries was a brilliant cryogenicist whose beloved wife Nora was stricken with a fatal degenerative disease.\n\nHe placed her in suspended animation while obsessively searching for a way to cure her; but the corporation that funded his research pulled the plug, triggering an accident that transformed Fries's body into a cold-blooded form that must always be kept below zero. At normal room temperature he will die.\n\nWielding a number of freezing weapons, he wears protective armor in his quest to somehow bring back his lovely wife and avenge her fate. Since the opening of Arkham City, Mr. Freeze has seemingly disappeared.
+
+[Gordon]
+02_REALNAME=James W. Gordon
+03_OCCUPATION=Police Commissioner
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=White (formerly brown)
+07_HEIGHT=6 ft
+08_WEIGHT=180 lb
+09_FIRST=Detective Comics #27 \n (May 1939)
+ATTRIB_01=Experienced police officer
+ATTRIB_02=Trained criminologist
+ATTRIB_03=Proficient in hand-to-hand fighting
+ATTRIB_04=Expert marksman
+ATTRIB_05=
+INFO_01_NAME=COMMISSIONER GORDON
+STORY=Police Commissioner James W. Gordon dedicated his career to cleaning up the corruption in the Gotham City Police Department, a goal he has come a long way towards accomplishing.\n\nHe has been equally tough on crime, and in the pursuit of making Gotham City safe for all its citizens, Gordon has forged an uneasy alliance with Gotham's other top crime fighter, the mysterious vigilante known as Batman.\n\nIn the wake of Mayor Sharp's establishment of Arkham City and TYGER guards assuming most law-enforcement roles, Gordon has been increasingly marginalized—but he remains an ally to the Batman.
+
+[Harley_Quinn]
+02_REALNAME=Dr. Harleen F. Quinzel
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Blonde
+07_HEIGHT=5 ft 7 in
+08_WEIGHT=140 lb
+09_FIRST=Batman: Harley Quinn #1 \n (October 1999)
+ATTRIB_01=Surprising strength and stamina
+ATTRIB_02=Superior gymnastic skills
+ATTRIB_03=Total disregard for human life
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=HARLEY QUINN
+STORY=An Arkham Asylum psychiatrist assigned to treat the Joker, Dr. Harleen Quinzel instead became obsessively fixated on her patient, believing herself to be in love with him.\n\nShe helped him escape and took on her own criminal identity as Harley Quinn. Quinn is a violent and unpredictable felon whose only motivation is achieving the Joker's approval.\n\nBecause of his cruel and mercurial nature, this in some ways makes her just another of his victims—albeit a very dangerous one.\n\nSince the Joker's Titan overdose in Arkham Asylum, Harley's mind has further deteriorated. She is blindly determined to put a smile back on his face.
+
+[Hugo_Strange]
+02_REALNAME=Hugo Strange
+03_OCCUPATION=Psychiatrist
+04_BASE=Gotham City
+05_EYES=Grey
+06_HAIR=Grey
+07_HEIGHT=5 ft 10 in
+08_WEIGHT=180 lb
+09_FIRST=Detective Comics #36\n(February 1940)
+ATTRIB_01=Trained to physical perfection
+ATTRIB_02=Brilliant psychological analyst
+ATTRIB_03=Extensive knowledge of psychoactive substances
+ATTRIB_04=Obsessed with Batman and Batman's secret identity
+ATTRIB_05=Plagued by schizophrenic episodes
+INFO_01_NAME=PROFESSOR HUGO STRANGE
+STORY=Infamous psychiatrist Hugo Strange claims to have unique insight on the criminal mind from years of clinical study. He persuaded Mayor Sharp that the Arkham City project was the only way for Gotham City to eliminate crime and “rogue vigilantes” like Batman.\n\nRumors persist of Strange performing ethically dubious experiments on inmates without consent, but unless hard proof comes to light, the Gotham public is happy to credit Strange with their dramatically reduced crime rate. Strange knows that Batman will hunt him down. He's counting on it.
+
+[Hush]
+02_REALNAME=Thomas “Tommy” Elliot
+03_OCCUPATION=Surgeon, Serial Killer
+04_BASE=Gotham City
+05_EYES=Blue (formerly brown)
+06_HAIR=Reddish-brown
+07_HEIGHT=6 ft 3 in
+08_WEIGHT=225 lb
+09_FIRST=Batman #609 \n (January 2003)
+ATTRIB_01=Great physical strength, augmented by the drive of revenge
+ATTRIB_02=World-class surgeon
+ATTRIB_03=Master of disguise
+ATTRIB_04=Determined to destroy Bruce Wayne
+ATTRIB_05=
+INFO_01_NAME=HUSH
+STORY=Tommy Elliot and Bruce Wayne were childhood friends and, unknown to Bruce, dark reflections of each other.\n\nA childhood sociopath, Elliot tried to kill his parents so he could control their fortune. When his plan failed due to the surgical skills of Thomas Wayne, Bruce's father, Elliot blamed the Wayne family for his problems.\n\nAn incredibly gifted surgeon as an adult, Elliot has spent decades planning an elaborate revenge scheme to destroy Bruce Wayne.
+
+[Jack_Ryder]
+02_REALNAME=Jack Ryder
+03_OCCUPATION=Investigative Reporter
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Black
+07_HEIGHT=6 ft
+08_WEIGHT=194 lb
+09_FIRST=Showcase #73 \n (March 1968)
+ATTRIB_01=Determined reporter
+ATTRIB_02=Known for his aggressive pursuit of stories
+ATTRIB_03=Famous for his controversial talk show
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=JACK RYDER
+STORY=Jack Ryder is an investigative reporter turned controversial talk show host, well-known for his aggressive manner and his relentless determination to get to the truth.\n\nWith the opening of the controversial Arkham City at hand, Ryder hopes to discover the roots of this dangerous stronghold and expose them for the good of Gotham.
+
+[Joker]
+02_REALNAME=Unknown
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Green
+06_HAIR=Green
+07_HEIGHT=6 ft
+08_WEIGHT=160 lb
+09_FIRST=Batman #1 \n (Spring 1940)
+ATTRIB_01=Unrepentant homicidal maniac
+ATTRIB_02=Surprisingly strong hand-to-hand combatant
+ATTRIB_03=Unknown past
+ATTRIB_04=Employs various deadly weapons, often based on party-gag items
+ATTRIB_05=Uses a fatal toxin that stretches victim's faces into Joker-like grin
+INFO_01_NAME=THE JOKER
+STORY=The self-styled Clown Prince of Crime has no superpowers beyond a capacity for incredible violence and a skill at creating deadly mayhem.\n\nSince his last encounter with the Dark Knight, the Joker has been transferred to Arkham City. Eyewitnesses claim he is stricken with a serious disease, possibly caused by his Titan overdose on Arkham Island.\n\nHe has been lying low, delivering orders through Harley Quinn, so no one can confirm if the Joker is actually in poor health or playing another sick joke.
+
+[Killer_Croc]
+02_REALNAME=Waylon Jones
+03_OCCUPATION=Alligator Wrestler, Gangster, Murderer
+04_BASE=Mobile
+05_EYES=Yellow
+06_HAIR=None
+07_HEIGHT=9 ft
+08_WEIGHT=310 lbs
+09_FIRST=Batman #357 \n (January 1984)
+ATTRIB_01=Incredibly thick, tough skin and razor-sharp teeth and claws
+ATTRIB_02=Strength and stamina are at a near-superhuman level
+ATTRIB_03=Heightened senses and extremely fast reflexes
+ATTRIB_04=Can survive in water for extended periods of time
+ATTRIB_05=An intense hatred of humanity
+INFO_01_NAME=KILLER CROC
+STORY=Born with a rare mutation that made his skin green and scaly and grew his body to grotesque proportions, Waylon Jones was raised by an alcoholic aunt and bullied relentlessly for his appearance.\n\nHe briefly worked as a carnival freak under the name Killer Croc, but his misanthropy grew with his animal nature, pushing him to a life of crime. As his physical condition and mental state deteriorate, Killer Croc becomes a more bestial foe, increasingly detached from humanity.\n\nHis whereabouts are unknown since his escape from Arkham Asylum.
+
+[Mad_Hatter]
+02_REALNAME=Jervis Tetch
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Red
+07_HEIGHT=4 ft 11 in
+08_WEIGHT=115 lb
+09_FIRST=Batman #49 \n (November 1948)
+ATTRIB_01=Master of hypnotism and mind control
+ATTRIB_02=Obsessed with hats, especially one-of-a-kind items
+ATTRIB_03=Delusional schizophrenic with a fixation on Alice in Wonderland
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=THE MAD HATTER
+STORY=Obsessed from a young age with Lewis Carroll's book Alice's Adventures in Wonderland, Jervis Tetch, an expert hypnotist, embraced a delusion that he was the incarnation of a character in the story, the Mad Hatter.\n\nUsing his skills for mesmerism, the Mad Hatter has committed many crimes, often themed around the book that inspired him and his love of hats and headgear, going so far as to implant his hats with mind-control chips to amplify his hypnosis skills.\n\nAbove all other headwear, however, he covets Batman's distinctive cowl, and will stop at nothing to acquire it.
+
+[Nora]
+02_REALNAME=Nora Fries
+03_OCCUPATION=N/A
+04_BASE=N/A
+05_EYES=Blue
+06_HAIR=Blonde
+07_HEIGHT=5 ft 6 in
+08_WEIGHT=145 lb
+09_FIRST=Batman: Mr. Freeze \n (1997)
+ATTRIB_01=Gifted dancer
+ATTRIB_02=
+ATTRIB_03=
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=NORA FRIES
+STORY=Beautiful Nora Fries found undying love when she married the shy but brilliant cryogenicist, Victor Fries.\n\nAfter she was struck with a rare disease, Victor used his lab to freeze Nora in a state of suspended animation until he could find a cure. Since then, Nora has been trapped between life and death.\n\nVictor became Mister Freeze, willing to break every law in his desperate search for a means to cure Nora.
+
+[Oracle]
+02_REALNAME=Barbara Gordon
+03_OCCUPATION=Information Broker
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Red
+07_HEIGHT=5 ft 11 in
+08_WEIGHT=126 lb
+09_FIRST=Detective Comics #359 \n (January 1967)
+ATTRIB_01=Eidetic memory—recall of everything she sees and reads
+ATTRIB_02=Extensive headquarters in Gotham City's Clocktower
+ATTRIB_03=High-level hacking and computer skills
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=ORACLE
+STORY=The daughter of Gotham City's Police Commissioner James W. Gordon, Barbara Gordon was forbidden by her overprotective father from joining the GCPD.\n\nInstead, she took on the identity of Batgirl and was a crime-fighting partner of Batman for years. But that all ended when the Joker shot her through the spine.\n\nParalyzed from the waist down and confined to a wheelchair, Barbara adopted the new identity of Oracle, and now aids the Dark Knight with her computer expertise, providing Batman with a constant stream of information in the field to aid his battle against crime.
+
+[Penguin]
+02_REALNAME=Oswald Chesterfield Cobblepot
+03_OCCUPATION=Black Market Racketeer
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Black
+07_HEIGHT=4 ft 10 in
+08_WEIGHT=175 lb
+09_FIRST=Detective Comics #58 \n (December 1941)
+ATTRIB_01=Criminal and financial mastermind
+ATTRIB_02=Expert hand-to-hand combatant
+ATTRIB_03=Driven to prove himself
+ATTRIB_04=Employs various weapons
+ATTRIB_05=
+INFO_01_NAME=THE PENGUIN
+STORY=The Penguin is an eccentric criminal mastermind known for his shady business dealings. Born into the wealthy Cobblepot family, Oswald was sent overseas for school as a boy. When his family hit hard times, Cobblepot immersed himself in a criminal education on the streets of London.\n\nYears later, he re-emerged as the Penguin, a black-market arms dealer in Gotham, facilitating the illegal financial activities that fund much of the city's underworld.\n\nThe Penguin seems to be prospering within Arkham City as the leader of its emerging black market.
+
+[Poison_Ivy]
+02_REALNAME=Pamela Lillian Isley
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Green
+06_HAIR=Red
+07_HEIGHT=5 ft 8 in
+08_WEIGHT=115 lb
+09_FIRST=Batman #181 \n (June 1966)
+ATTRIB_01=Able to direct the growth of all plant life
+ATTRIB_02=Plant genes mixed with her DNA
+ATTRIB_03=Exudes natural pheromones that control victims
+ATTRIB_04=Skin secretes a deadly toxin
+ATTRIB_05=Pathological drive to protect nature from humanity
+INFO_01_NAME=POISON IVY
+STORY=Botanist Pamela Isley was transformed by a science experiment gone wrong into a plant-human hybrid. With chlorophyll flowing through her veins instead of blood, she developed a toxic touch and a pheromone-fueled talent for seduction.\n\nHer unique brand of eco-terrorism often puts her into conflict with Batman, whose iron will usually protects him from her seductive powers. Since her encounter with the Dark Knight on Arkham Island, Ivy has been transferred to Arkham City.\n\nTaking refuge in a vine-covered stronghold, Ivy would rather keep humanity away than participate in the gang wars of Arkham City.
+
+[Quincy_Sharp]
+02_REALNAME=Quincy Sharp
+03_OCCUPATION=Mayor of Gotham City
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Gray
+07_HEIGHT=5 ft 8 in
+08_WEIGHT=190 lb
+09_FIRST=Batman: Arkham Asylum \n (August 2009)
+ATTRIB_01=Intense dedication to "clean up" Gotham
+ATTRIB_02=Pompous and old-fashioned in demeanor
+ATTRIB_03=Focused on his own political aspirations
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=QUINCY SHARP
+STORY=Quincy Sharp was the warden of Arkham Asylum on the night that the Joker broke free, 18 months ago. Unknown to most, but discovered by Batman, Sharp suffered from a split personality disorder and had been committing atrocities in the asylum, believing himself to be possessed by the Spirit of Amadeus Arkham.\n\nIn reality, he was being influenced by Hugo Strange, who had provided Sharp with powerful mind control drugs that allowed him to manipulate Sharp's behaviour, enabling him to plant the seed that led to the creation of Arkham City.\n\nHugo Strange used the evidence of the atrocities committed by Sharp as collateral to make sure that, whatever happened, Sharp must remain loyal to him.
+
+[Ras_Ghul]
+02_REALNAME=Unknown
+03_OCCUPATION=International Terrorist
+04_BASE=Mobile
+05_EYES=Green
+06_HAIR=Grey with white streaks
+07_HEIGHT=6 ft
+08_WEIGHT=210 lb
+09_FIRST=Batman #232 \n (June 1971)
+ATTRIB_01=Genius intellect and strategist
+ATTRIB_02=Superior strength and stamina
+ATTRIB_03=Superb hand-to-hand combatant
+ATTRIB_04=Nearly immortal thanks to his Lazarus Pits
+ATTRIB_05=Commands the League of Assassins
+INFO_01_NAME=RĀ'S AL GHŪL
+STORY=Little is known about the early years of the nearly immortal Rā's al Ghūl, leader of the League of Assassins, whose name means “the demon's head.”\n\nHe has lived for many centuries due to the Lazarus Pits, mystical and alchemical brews that restore his youth. A brilliant master of strategy and organization, Rā's goal is to save the Earth from eventual ecological devastation by destroying most of its population.\n\nHe recognizes Batman as both a worthy foe and a possible ally—except that Batman cannot accept Rā's dystopic worldview.\n\nTo bring Batman to his side, Rā's has even orchestrated a relationship between Batman and his beautiful daughter, Talia al Ghūl.
+
+[Riddler]
+02_REALNAME=Eddie Nashton a.k.a. Edward Nigma
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Brown
+07_HEIGHT=6 ft 1 in
+08_WEIGHT=183 lb
+09_FIRST=Detective Comics #140 \n (October 1948)
+ATTRIB_01=Genius Intellect
+ATTRIB_02=Driven to test others by leaving clues to his crimes
+ATTRIB_03=Compulsive need for attention
+INFO_01_NAME=THE RIDDLER
+STORY=With an obsessive-compulsive need for attention, Edward Nigma is determined to be the cleverest of Gotham City's criminals, plotting elaborate trails of clues and riddles around his crimes.\n\nBatman has proven a worthy opponent, capable of unraveling the Riddler's most intricate plans, but Nigma is dedicated to creating a mystery that will stump the Dark Knight, even if he has to kill someone to do it.\n\nHumiliated by Batman on Arkham Island, Nigma is more determined than ever to bring the Caped Crusader to his knees.
+
+[Robin]
+02_REALNAME=Tim Drake
+03_OCCUPATION=Student
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Black
+07_HEIGHT=5 ft 10 in
+08_WEIGHT=170 lb
+09_FIRST=Batman #436 \n (August 1989)
+ATTRIB_01=Keen detective skills
+ATTRIB_02=Trained to fight crime by Batman
+ATTRIB_03=Arsenal of gadgets and advanced technology
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=ROBIN
+STORY=Young Tim Drake was in the audience the night the Flying Graysons were murdered, where he witnessed Batman leap to the scene. Inspired by Batman's heroics, Tim closely followed the chronicles of Batman and Robin.\n\nEventually deducing their secret identities using his self-taught detective skills, Tim convinced Bruce Wayne and Dick Grayson—now Nightwing—that a new Robin was needed in the never-ending battle for justice.\n\nTested by the Dark Knight himself with a grueling training regimen, Tim earned the right to become Robin, and has since lived up to the name.
+
+[Solomon_Grundy]
+02_REALNAME=Cyrus Gold
+03_OCCUPATION=N/A
+04_BASE=Slaughter Swamp
+05_EYES=Gray
+06_HAIR=Gray
+07_HEIGHT=Varies
+08_WEIGHT=Varies
+09_FIRST=All-American Comics #61 \n (October 1944)
+ATTRIB_01=Each reincarnation makes him stronger
+ATTRIB_02=Incredible strength and resilience
+ATTRIB_03=Can never be truly killed
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=SOLOMON GRUNDY
+STORY=Over a century ago, murderer Cyrus Gold sought to escape justice by hiding in Slaughter Swamp, where he met a fate worse than death. Mysterious forces doomed the now immortal Grundy to an endless cycle of death and rebirth.\n\nRobbed of his memories, he adopted the name of a nursery rhyme: “Solomon Grundy, Born on a Monday, Christened on Tuesday, Married on Wednesday, Took ill on Thursday, Grew worse on Friday, Died on Saturday, Buried on Sunday. This is the end of Solomon Grundy.”
+
+[Talia_Ghul]
+02_REALNAME=Talia al Ghūl
+03_OCCUPATION=Assassin
+04_BASE=Mobile
+05_EYES=Green
+06_HAIR=Brown
+07_HEIGHT=5 ft 7 in
+08_WEIGHT=141 lb
+09_FIRST=Detective Comics #411 \n (May 1971)
+ATTRIB_01=Trained in stealth and combat by the League of Assassins
+ATTRIB_02=Ruthless and brilliant tactician
+ATTRIB_03=Runs legitimate business empires for the League
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=TALIA AL GHŪL
+STORY=The headstrong daughter of Rā's al Ghūl and on-again/off-again lover of Bruce Wayne, Talia al Ghūl is second in command of the League of Assassins.\n\nA master of hand-to hand combat and swordplay, Talia has dueled with Batman on several occasions and considers him an honorable opponent.\n\nDespite Batman's elusiveness, her attraction to him has only increased—an attraction that her father encourages in his mad quest for a male heir.\n\nTalia knows that one day she may be forced to choose between her father and her beloved.
+
+[Two_Face]
+02_REALNAME=Harvey Dent
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Brown/Grey
+07_HEIGHT=6 ft
+08_WEIGHT=182 lb
+09_FIRST=Detective Comics #66 \n (August 1942)
+ATTRIB_01=Hideously scarred on half of his face
+ATTRIB_02=Extremely skilled with his twin .45 semi-automatics
+ATTRIB_03=Psychotic obsession with duality and the number two
+ATTRIB_04=Defers to his half-scarred coin in choices of life or death
+ATTRIB_05=
+INFO_01_NAME=TWO-FACE
+STORY=District Attorney Harvey Dent was one of Batman's strongest allies in Gotham City, until a criminal threw acid in Dent's face, hideously scarring him.\n\nThe wounds fractured his psyche, and he was reborn Two-Face, a schizoid criminal mastermind obsessed with duality. His former good-luck charm, a “two-headed” trick silver dollar, was damaged on one side in the attack, and Dent has seized on it as a reflection of his half-scarred visage. He flips it to decide the fates of his victims.\n\nTwo-Face is thriving in Arkham City, rallying inmates to join his gang using tried and true campaign tactics.
+
+[Vicki_Vale]
+02_REALNAME=Vicki Vale
+03_OCCUPATION=Investigative Journalist
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=Blonde
+07_HEIGHT=5 ft 7 in
+08_WEIGHT=121 lb
+09_FIRST=Batman #49 \n (October/November 1948)
+ATTRIB_01=Hard-nosed reporting skills
+ATTRIB_02=Gotham's most trusted name in news
+ATTRIB_03=
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=VICKI VALE
+STORY=Investigative reporter Vicki Vale got her start at the Gotham City Gazette, where she quickly rose to fame for her unwavering commitment to rooting out the ugly truths behind Gotham's corruption and poverty.\n\nFocusing more and more on Batman's feats, Vicki has recently turned her attention to the opening of Arkham City.\n\nShe'll risk life and limb to portray the danger this prison city poses to the public, perhaps overly confident that Batman will be there to catch her when she falls.
+
+[Zsasz]
+02_REALNAME=Victor Zsasz
+03_OCCUPATION=Professional Criminal
+04_BASE=Gotham City
+05_EYES=Blue
+06_HAIR=None (formerly blonde)
+07_HEIGHT=5 ft 8 in
+08_WEIGHT=150 lb
+09_FIRST=Batman: Shadow of the Bat #1 \n (June 1992)
+ATTRIB_01=Sociopath with no regard for human life
+ATTRIB_02=No pattern of killing, making him difficult to track
+ATTRIB_03=Compulsive need to kill others
+ATTRIB_04=
+ATTRIB_05=
+INFO_01_NAME=MR. ZSASZ
+STORY=A true sociopath, Zsasz grew up in a life of ease, but nonetheless became a serial killer. Indiscriminate in his prey, body count is the only thing that matters to Zsasz.\n\nHe carves a mark for each of his victims into his own body, and is saving a special spot for the Batman.\n\nSince being thrown into Arkham City, his whereabouts are unknown, though reports of rising body counts fit his modus operandi.

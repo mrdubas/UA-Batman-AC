@@ -1,0 +1,68 @@
+﻿
+[CH2_JK_belfry]
+01=Well, look who it is.
+02=I haven't seen you for, how long has it been? Let's see, there was an asylum, some monsters, and oh, that's right, you left me to die.
+03=Now you probably don't remember it that way, but who cares?
+04=You just need to worry about the bombs.
+05=Hurry up now. Clock's ticking.
+
+[CH2_ScannedGUN]
+01=That's cheating! You know, I can't imagine an afterlife without you, my dear, soon-to-be-dead pal.
+02=Time to die. I'll see you soon! BYEEEE!
+
+[CH3_MUSEUM_INTRO]
+01=Welcome to the Cyrus Pinkney Natural History Institute.
+02=All visitors must be searched as part of our ongoing commitment to keep you safe and protect the unique collection we have on display.
+03=All visitors should be sure to check out our latest attraction, "Dangers from the Deep," in the Aquatic Observation Chamber.
+04=All visitors with a valid ticket or concession card can enjoy a discount at the nearby, world-famous Iceberg Lounge.
+
+[CH6_SM_C4_Joker_well]
+01=Good evening, troops. This is General J with a quick update on what's going on down here in Arkham City.
+02=As you can see, I'm looking much better. In fact... I think I'm looking better than ever.
+03=I can hear you all now: "How did this happen?" "Can I get me some of that crazy cure?" "I want answers, damn it! Now!"
+04=Well, here's the thing. Answers don't give you everlasting satisfaction. Sometimes you need to brace yourself for disappointment. Think about it. Imagine your favorite TV show. You've been through it all. The ups, the downs, the crazy coincidences, and then: Bang! They tell you what it's all about.
+05=Would you be happy? Does it make sense? How come it all ended in a church?
+06=You guys just need to know one simple thing. I'm back. Back for good.
+07=Now arm yourselves, boys. We've got a prison break to plan. No hostages. No surrender. Oh, I know. It sounds like suicide, but listen.
+08=Whatever happens.
+09=I'll be right behind you.
+
+[CH7_INTRO_TV]
+01=You are mine, new inmates. Let me introduce myself. I am Professor Hugo Strange and I am in charge of the Arkham City Facility.
+02=Up until this point, you have shown a total disregard for the law, for society and yourself.
+03=From this moment on, you are no longer part of the society that you have shown no respect for.
+04=You have been separated from the good people of Gotham.
+05=By committing the actions that resulted in you being sent here, you have given up the right to a so-called normal life.
+06=While in my custody, you will follow the rules of Arkham City to the letter.
+07=These rules ensure your continued well being.
+08=Rule 1: Do not approach the security wall surrounding the facility. Any attempt to approach the wall will be considered an act of escape and will be met with extreme force.
+09=Rule 2: All prisoners must surrender themselves for full psychiatric examination when requested. Failure to surrender will be met with extreme force followed by a level nine and ten psychiatric profiling.
+09a=Rule 2: All prisoners must surrender themselves for full psychiatric examination when requested.
+09b=Failure to surrender will be met with extreme force followed by a level nine and ten psychiatric profiling.
+10=Rule 3: TYGER operatives have full jurisdiction in Arkham City. If for any reason a TYGER operative approaches or issues an order to you, you must immediately adopt a kneeling position and place both hands on the back of your head.
+10a=Rule 3: TYGER operatives have full jurisdiction in Arkham City.
+10b=If for any reason a TYGER operative approaches or issues an order to you, you must immediately adopt a kneeling position and place both hands on the back of your head.
+11=Failure to adopt this position will be considered an aggressive response and will be met with extreme force.
+12=These rules are mandatory and by the power vested in me, by the people of Gotham City, lawful.
+
+[CH7_UNDER_C4_STRANGE]
+SEQUENCE01=Stop right there, Batman. We need to talk and I know you wouldn't be able to live with yourself if your actions caused this poor man to die.
+SEQUENCE02=I have a question for you. Before my arrival, this city was drowning under a tide of filth.
+SEQUENCE03=Had you ever considered that all this is your fault?
+SEQUENCE04=Your presence creates these animals; like germs, they spread. You created the environment that allowed the germ to mutate, to become stronger. Look at the Joker. Would he even exist if not for you?
+SEQUENCE05=It must be depressing. All your sacrifices and yet, you are the one to blame.
+SEQUENCE06=Oh, this is beautiful. We have at long last defeated the great Batman.
+SEQUENCE07=Soon, I will take my rightful place at my master's side.
+SEQUENCE08=We will rule over this world.
+SEQUENCE09=So thank you, Batman, for all your help.
+SEQUENCE10=Now, kill him!
+
+[CH8_J_talia_TV]
+01=Hello, Batman. I know you can hear me.
+02=I've not caught you at a bad time, have I? I was worried that you may have forgotten about little old me.
+03=Take a look at your girlfriend, who, as you can see, is in danger of having her pretty little brains splattered all over this camera.
+04=Ignore him, beloved. Let him die!
+05=Ah, how romantic. Only problem is, I've never felt better, and we both know, you really can't ignore me. Can you?
+06=So, listen, Batman. I'm putting on a little show for you. It's going to be a doozy. A real red carpet affair. You'd better hurry though, if you take too long, the leading lady may be found dead in her dressing room.
+06a=So, listen, Batman. I'm putting on a little show for you. It's going to be a doozy. A real red carpet affair.
+06b=You'd better hurry though, if you take too long, the leading lady may be found dead in her dressing room.

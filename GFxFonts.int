@@ -1,0 +1,11 @@
+﻿
+[FontLib]
+FontLib=Fonts_en.fonts_en
+
+[Fonts]
+Game=BAC Game
+OCR=BAC Tech
+Title=BAC Titles
+
+[IME]
+MoviePath=GFxIME.IME

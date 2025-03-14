@@ -1,0 +1,1449 @@
+﻿
+[AdditionalComposition]
+00=.ADDITIONAL COMPOSITION
+01=Ron Fish
+
+[AdditionalOrchestrations]
+00=.ADDITIONAL ORCHESTRATIONS
+01=Jeremy Levy
+
+[AssistantEngineers]
+00=.ASSISTANT ENGINEERS
+01=Chris Barrett
+02=Fiona Cruickshank
+
+[BABEL_BrazilianPortuguese]
+00=.BRAZILIAN PORTUGUESE
+01=Sandra Castiço
+
+[BABEL_CastilianSpanish]
+00=.CASTILIAN SPANISH
+01=Aaron Gabaldon
+
+[BABEL_DirectorSalesAmericas]
+00=.DIRECTOR OF SALES – AMERICAS
+01=Steve Wickes
+
+[BABEL_French]
+00=.FRENCH
+01=Gaelle D'Addario
+
+[BABEL_German]
+00=.GERMAN
+01=Tariq Aziz
+
+[BABEL_Italian]
+00=.ITALIAN
+01=Luca Bolognesi
+
+[BABEL_Japanese]
+00=.JAPANESE
+01=Manami May
+
+[BABEL_Korean]
+00=.KOREAN
+01=Hyunhee Park
+
+[BABEL_LatinSpanish]
+00=.LATIN SPANISH
+01=Tanya Vera
+
+[BABEL_LocalisationTesters]
+00=*LOCALISATION TESTERS
+
+[BABEL_Polish]
+00=.POLISH
+01=Wojciech Tolsdorf
+
+[BABEL_PreProductionCoord]
+00=.PRE-PRODUCTION COORDINATOR
+01=Edd Buffery
+
+[BABEL_ProjectManager]
+00=.PROJECT MANAGER
+01=Irina Lokshina
+
+[BABEL_QACoords]
+00=.QA COORDINATORS
+01=Hampus Flink
+02=Stephen Alexander
+
+[BABEL_Russian]
+00=.RUSSIAN
+01=Alexei Zinin
+
+[BABEL_Title]
+00=&BABEL Media
+
+[BatmanArkhamCity]
+00=&BATMAN: ARKHAM CITY™
+
+[BatmanCreatedBy]
+00=.BATMAN CREATED BY
+01=Bob Kane
+
+[COMPUCOM_AccountManager]
+00=.ACCOUNT MANAGER
+01=Terry Brooke
+
+[COMPUCOM_GamesProjectManager]
+00=.GAMES PROJECT MANAGER
+01=Guy Elder
+
+[COMPUCOM_QAAnalysts]
+00=.QUALITY ASSURANCE TEAM
+01=Joseph Allen
+02=Christopher Barker
+03=Ty Barrett
+04=John Carlile
+05=Rolando Cisneros
+06=Yesenia Cisneros
+07=Jordan de Geus
+08=Cory Erickson
+09=Jacob Farley
+10=Anton Feist
+11=Matt Fields
+12=Matthew Fortier
+13=Brett Hansen
+14=Thomas Harris
+15=Benjamin Harrison
+17=Lauren Hotson
+18=Erin Ingudomnukul
+19=Gerald Jackson
+20=Youngmin Kim
+21=Bryan Link
+22=Keith Marsh
+23=Allen Maxwell
+24=Nekiah McCalop
+25=Alex Miller
+26=Johan Moe
+27=Matthew Morrow
+28=Bradford Nims
+29=Kyle Robinson
+30=Timothy Rogers
+31=Jeffrey Rollosson Halbhuber
+32=Thomas Roxstrom
+33=Taylor Sanders
+34=Derek Shefveland
+35=Matthew Weber
+37=Devon Wilson
+
+[COMPUCOM_QADirector]
+00=.QA DIRECTOR
+01=Dan Williams
+
+[COMPUCOM_QALeads]
+00=.QUALITY ASSURANCE LEADS
+01=Erich Blattner
+02=Chris Chappell
+03=Evan McGuire
+
+[COMPUCOM_Title]
+00=&CompuCom Games
+
+[Composer]
+00=.COMPOSER
+01=Nick Arundel
+
+[Copyrights]
+Monotype=Monotype is a trademark of Monotype Imaging Inc. registered in the United States Patent and Trademark Office and may be registered in certain jurisdictions. The Monotype Imaging logo is a trademark of Monotype Imaging Inc. and may be registered in certain jurisdictions.
+PhysX=PhysX Technology provided under license from NVIDIA Corporation.
+Speedtree=Portions of the software utilize SpeedTree®RT Technology © 2011 Interactive Data Visualization, Inc. All rights reserved.
+Wwise=©Copyright 2011 Audiokinetic Inc. All rights reserved.
+
+[CutsceneReRecordingMixer]
+00=.CUTSCENCE RE-RECORDING MIXER
+01=Pip Norton
+
+[DC_ChiefCreativeOfficer]
+00=.Chief Creative Officer
+01=Geoff Johns
+
+[DC_CoPublishers]
+00=.Co-Publishers
+01=Dan DiDio and Jim Lee
+
+[DC_CreativeAssociate1]
+00=.Creative Associate
+01=Shawn Kittelsen
+
+[DC_CreativeAssociate2]
+00=.Creative Associate
+01=Victoria Setian
+
+[DC_CreativeDirectorInteractive]
+00=.Creative Director, Interactive
+01=John Morgan
+
+[DC_ExecutiveVP]
+00=.Executive VP – Sales, Marketing and Business Development
+01=John Rood
+
+[DC_President]
+00=.President
+01=Diane Nelson
+
+[DC_SnrVPBusinessLegalAffairs]
+00=.Senior VP – Business and Legal Affairs
+01=Amy Genkins
+
+[DC_SnrVPDigital]
+00=.Senior VP – Digital
+01=Hank Kanalz
+
+[DC_SnrVPExecEditorVertigo]
+00=.Senior VP – Executive Editor, Vertigo
+01=Karen Berger
+
+[DC_SnrVPFinance]
+00=.Senior VP – Finance
+01=Nairi Gardiner
+
+[DC_SnrVPFranchiseManagement]
+00=.Senior VP – Franchise Management
+01=Amit Desai
+
+[DC_SnrVPManufacturingOps]
+00=.Senior VP – Manufacturing and Operations
+01=Alison Gill
+
+[DC_SnrVPPublicity]
+00=.Senior VP – Publicity
+01=Courtney Simmons
+
+[DC_SnrVPSales]
+00=.Senior VP – Sales
+01=Bob Wayne
+
+[DC_SpecialThanks]
+00=.Special thanks to
+01=Kevin Kiniry
+02=Steve Korté
+03=Cheryl Rubin
+04=Andrea Shochet
+
+[DC_Title]
+00=&DC ENTERTAINMENT
+
+[DC_VPArtDirectionDesign]
+00=.VP – Art Direction and Design
+01=Mark Chiarello
+
+[DC_VPBookSales]
+00=.VP – Book Sales
+01=Sue Pohja
+
+[DC_VPBusAffairsTalent]
+00=.VP – Business Affairs, Talent
+01=Jack Mahan
+
+[DC_VPBusLegalAffairsPublishing]
+00=.VP – Business and Legal Affairs, Publishing
+01=Jay Kogan
+
+[DC_VPBusinessAffairsMedia]
+00=.VP – Business Affairs, Media
+01=Rich Palermo
+
+[DC_VPEditorInChief]
+00=.VP – Editor in Chief
+01=Bob Harras
+
+[DC_VPExecEditorMAD]
+00=.VP – Executive Editor, MAD
+01=John Ficarra
+
+[DC_VPManufacturingAdmin]
+00=.VP – Manufacturing Administration
+01=Nick Napolitano
+
+[DC_VPMarketing]
+00=.VP – Marketing
+01=John Cunningham
+
+[DC_VPOnline]
+00=.VP – Online
+01=Ron Perazza
+
+[DC_VPPublicity]
+00=.VP – Publicity
+01=David Hyde
+
+[DC_VPPublishingOperations]
+00=.VP – Publishing Operations
+01=Jeff Boison
+
+[DC_VPStrategyPlanningReporting]
+00=.VP – Strategy Planning and Reporting
+01=Anne DePies
+
+[DC_VPTalentRelationsServices]
+00=.VP – Talent Relations and Services
+01=Terri Cunningham
+
+[DialogueRecorded]
+00=.DIALOGUE RECORDED AT
+01=Warner Bros. Studios
+
+[IMAGENATION_Title]
+00=*Imagenation Abu Dhabi
+
+[MusicOrchConductor]
+00=.MUSIC ORCHESTRATION AND CONDUCTOR
+01=Tim Davies
+
+[MusicPreperation]
+00=.MUSIC PREPARATION
+01=Mark Cally
+02=Susie Benchasil Seiter
+03=Leo Birenberg
+
+[MusiciansProvidedBy]
+00=.MUSICIANS PROVIDED BY
+01=Isobelle Griffiths
+
+[NVIDIA_ArtTeam]
+00=.ART TEAM
+01=Johnny Costello
+02=Khariton Kantiev
+03=Kevin Newkirk
+04=Aron Zoellner
+
+[NVIDIA_DevRelationsManagement]
+00=.DEVELOPER RELATIONS & MANAGEMENT
+01=Keita Iida
+02=Eric Liu
+03=Ashu Rege
+04=Miguel Sainz
+05=David Schoemehl
+06=Phil Scott
+07=Phil Wright
+
+[NVIDIA_Engineering]
+00=.ENGINEERING
+01=Louis Bavoil
+02=Terry Caton
+03=Bryan Dudash
+04=Jon Jansen
+05=Hermes Lanker
+06=Evgeny Makarov
+07=Khalid Mohammed
+08=Lou Rohan
+09=David Sullins
+10=Jiayuan Zhu
+
+[NVIDIA_QATesters]
+00=.QA TESTERS
+01=Sergey Bobrov
+02=Zach Bowman
+03=Kirill Budankov
+04=Chris Lin
+05=Patrick McKinney
+06=Jeremy Patterson
+07=Don Price
+
+[NVIDIA_Title]
+00=&NVIDIA
+
+[OnlyYou]
+00=.ONLY YOU (AND YOU ALONE)
+01=By Buck Ram and Ande Rand
+02=Published by
+03=SCREEN GEMS-EMI MUSIC INC. (BMI)
+04=in the World excluding the United States,
+05=and TRO – Hollis Music, Inc. (BMI)
+06=All Rights Reserved. Used by Permission.
+
+[ROCK_AddCharConceptArt]
+00=.ADDITIONAL CHARACTER CONCEPT ART
+01=Carlos D'Anda
+02=Brandon Badeaux
+03=Roger Robinson
+
+[ROCK_AddEngineProgrammers]
+00=.ADDITIONAL ENGINE PROGRAMMERS
+01=NETHERREALM STUDIOS
+02=Rizwan Ahmed
+03=Alexander Barrentine
+04=Kevin Baxtrom
+05=Mike Boon
+06=Gavin Freyberg
+07=Mark Gorski
+08=Jon Greenberg
+09=Jerry Gwarnicki
+10=Ivan Morozov
+11=Miguel Parra
+12=Adisak Pochanayon
+13=Tom Sakkos
+14=Anthony Smith
+15=Adam Urbano
+16=Alan Villani
+17=Robert Worrell
+
+[ROCK_AdditionalAnims]
+00=.ADDITIONAL ANIMATION BY
+01=RedJade
+02=Virtuos
+
+[ROCK_AdditionalChars]
+00=.ADDITIONAL CHARACTERS BY
+01=Massive Black Ltd.
+02=The Lost Foundry Ltd.
+
+[ROCK_AiProgrammers]
+00=.AI PROGRAMMERS
+01=Paul Denning
+02=Adam Goh
+03=Alick Goldenberg
+04=Andrew Rowse
+05=Mark Welch
+
+[ROCK_Animators]
+00=.ANIMATORS
+01=Max Fanning
+02=David Houston
+03=Danny Murdock
+04=Mirko Petrelli
+05=Niamh Tierney
+06=Adam Vincent
+
+[ROCK_ArtDirector]
+00=.ART DIRECTOR
+01=David Hego
+
+[ROCK_ArtProducer]
+00=.ART PRODUCER
+01=Wayne Billingham
+
+[ROCK_AssociateProducer]
+00=.ASSOCIATE PRODUCER
+01=Scott Burfitt
+
+[ROCK_AudioDirector]
+00=.AUDIO DIRECTOR
+01=Nick Arundel
+
+[ROCK_AudioProgrammer]
+00=.AUDIO PROGRAMMER
+01=Anthony Lloyd
+
+[ROCK_BatBabies]
+00=.ROCKSTEADY ‘BAT' BABIES
+01=Joseph Doherty
+02=Jasper Field
+03=Alexandra Philippa Delacey Mcfeat
+04=Lawrence Stewart Corbett Mcfeat
+05=Aidan James Norman
+06=Jack Oliver
+07=Samuel Isaac Rowse
+08=Eloise Kerrel Saberton
+09=Rose Izabela Southgate
+10=Lily Lois Walker
+
+[ROCK_CharacterArtists]
+00=.CHARACTER ARTISTS
+01=Albert Feliu
+02=Benjamin Flynn
+03=Rodolfo Souza
+04=Andrew Coombes
+
+[ROCK_CinematicsAnimators]
+00=.CINEMATICS ANIMATORS
+01=Art Lenavat
+02=Salinee Mukhood
+03=Mark Perceval-Maxwell
+04=Oscar Perea
+05=Simon Warwick
+
+[ROCK_CinematicsDirector]
+00=.CINEMATICS DIRECTOR
+01=Paul Boulden
+
+[ROCK_CommunityManager]
+00=.COMMUNITY MANAGER
+01=Sarah Wellock
+
+[ROCK_ConceptArtists]
+00=.CONCEPT ARTISTS
+01=Lee Oliver
+02=Kan Muftic
+
+[ROCK_Designers]
+00=.DESIGNERS
+01=Bill Green
+02=Ashraf Mohammad
+03=Keith Nakamura
+04=Magali Stretton
+05=Jamie Whitworth
+06=Anthony Wicker
+07=James Wicker
+
+[ROCK_DesktopOpsSupport]
+00=.DESKTOP & OPS SUPPORT SPECIALIST
+01=Jack Martin
+
+[ROCK_EngineProgrammers]
+00=.ENGINE PROGRAMMERS
+01=John Gay
+02=Simon Hargrave
+03=Dustin Hulm
+04=John Northwood
+05=Tim Rennie
+
+[ROCK_EnvironmentArtists]
+00=.ENVIRONMENT ARTISTS
+01=Jamie Field
+02=Merter Hussein
+03=Paul Jones
+04=Paul Mader
+05=Edward Noble
+06=Glen Saberton
+07=Michael Smith
+08=John Southgate
+09=Andre Wahlgren
+10=Viktor Zics
+
+[ROCK_FinanceManager]
+00=.FINANCE MANAGER
+01=Eve Warren
+
+[ROCK_FrontendArtists]
+00=.FRONTEND ARTISTS
+01=Michael Bel Gil
+02=Remi Lefort
+
+[ROCK_GameDirector]
+00=.GAME DIRECTOR
+01=Sefton Hill
+
+[ROCK_GameplayProgrammers]
+00=.GAMEPLAY PROGRAMMERS
+01=Boris Bauer
+02=Paul Denning
+03=Adam Goh
+04=Alick Goldenberg
+05=Simon Hobbs
+06=Andrew Rowse
+07=Mark Welch
+
+[ROCK_HRManager]
+00=.HUMAN RESOURCE MANAGER
+01=Shaz Rashid
+
+[ROCK_ITDirector]
+00=.I.T. DIRECTOR
+01=Benjamin Nias
+
+[ROCK_LeadAIProgrammer]
+00=.LEAD AI PROGRAMMER
+01=Tim Hanagan
+
+[ROCK_LeadAnimator]
+00=.LEAD ANIMATOR
+01=Zafer Coban
+
+[ROCK_LeadAudioProgrammer]
+00=.LEAD AUDIO PROGRAMMER
+01=Chip Bell
+
+[ROCK_LeadCharArtist]
+00=.LEAD CHARACTER ARTIST
+01=Pablo Hoyos Isusquiza
+
+[ROCK_LeadEnvironmentArtist]
+00=.LEAD ENVIRONMENT ARTIST
+01=Will Smith
+
+[ROCK_LeadLevelDesigner]
+00=.LEAD LEVEL DESIGNER
+01=Ian Ball
+
+[ROCK_LeadMocapAnimator]
+00=.LEAD MOTION CAPTURE ANIMATOR
+01=James Norman
+
+[ROCK_LeadNarrativeDesigner]
+00=.LEAD NARRATIVE DESIGNER
+01=Paul Crocker
+
+[ROCK_LeadPlayerProgrammer]
+00=.LEAD PLAYER PROGRAMMER
+01=Adam Doherty
+
+[ROCK_LeadQA]
+00=.LEAD QA
+01=Dwayne Buck
+
+[ROCK_LeadSFXArtist]
+00=.LEAD SPECIAL EFFECTS ARTIST
+01=Ingmar Clarysse
+
+[ROCK_LightingArtist]
+00=.LIGHTING ARTIST
+01=Abelardo Polonio
+
+[ROCK_MarketingManager]
+00=.MARKETING GAME MANAGER
+01=Dax Ginn
+
+[ROCK_OfficeAssistReception]
+00=.OFFICE ASSISTANT & RECEPTIONIST
+01=Cheryl-Ann Williams
+
+[ROCK_OfficeManager]
+00=.OFFICE MANAGER
+01=Adrian Hill
+
+[ROCK_OutsourcePartners]
+00=.OUTSOURCE PARTNERS
+01=The Lost Foundry Ltd.
+02=Massive Black Ltd.
+03=RedJade
+04=Virtuos
+
+[ROCK_PlayerProgrammers]
+00=.PLAYER PROGRAMMERS
+01=Boris Bauer
+02=Simon Hobbs
+
+[ROCK_Producer]
+00=.PRODUCER
+01=Gerald Smith
+
+[ROCK_ProductionAssistant]
+00=.PRODUCTION ASSISTANT
+01=Siobhan Kennett
+
+[ROCK_PropsArtists]
+00=.ASSET ARTISTS
+01=Lee Adamson
+02=Karl Stjernberg
+
+[ROCK_QATesters]
+00=.QA TESTERS
+01=Jamie Adams
+02=Johnny Armstrong
+03=Noel Chamberlain
+04=Joshua Dahdrai
+05=David Gabriel
+06=David Higgins
+07=Sunny Mody
+08=Digby Murray
+09=Jigar Patel
+10=David Tyndale
+11=Carrie-Ann Williams
+
+[ROCK_SFXArtists]
+00=.SPECIAL EFFECTS ARTISTS
+01=Paul Cloney
+02=Brendon Kelly
+03=Alex Underhill
+
+[ROCK_SeniorProducers]
+00=.SENIOR PRODUCERS
+01=Daniel Bailie
+02=Nathan Burlow
+
+[ROCK_SoundDesigners]
+00=.SOUND DESIGNERS
+01=Lee Banyard
+02=Andrew Riley
+03=Kevin Vail
+
+[ROCK_SpecialThanks]
+00=.ROCKSTEADY SPECIAL THANKS
+01=John Baines
+02=Lee Brown
+03=Jack Marshall
+04=Ben Nicholson
+05=Gabriele Pellegrini
+06=Olivier Penot
+07=Sebastien Ray
+08=Bruno Xiberras
+
+[ROCK_StudioDirector]
+00=.STUDIO DIRECTOR
+01=Jamie Walker
+
+[ROCK_TechCinematicsAnimator]
+00=.TECHNICAL CINEMATIC ANIMATOR
+01=Simon Warwick
+
+[ROCK_TechnicalAnimators]
+00=.TECHNICAL ANIMATORS
+01=Tristan Lawler
+02=Shea Richardson
+
+[ROCK_TechnicalArtist]
+00=.TECHNICAL ARTIST
+01=Joel Styles
+
+[ROCK_TechnicalDirector]
+00=.TECHNICAL DIRECTOR
+01=Ben Wyatt
+
+[ROCK_Title]
+00=*DEVELOPED BY
+01=&ROCKSTEADY STUDIOS
+
+[RecordedAndMixedAtAirStudios]
+00=&RECORDED AND MIXED AT AIR STUDIOS
+
+[SQS_AccountManager]
+00=.ACCOUNT MANAGER
+01=Amogh Bendre
+
+[SQS_LeadTesters]
+00=.LEAD TESTERS
+01=Mahesh Kulkarni
+02=Amit Raut
+03=Siddharth Patki
+04=Rohan Kanekar
+05=Karan Bhatewara
+
+[SQS_QAManager]
+00=.QA MANAGER
+01=Vijay Kasmalkar
+
+[SQS_QAProjectLeads]
+00=.QA PROJECT LEADS
+01=Nikhil Mate
+02=Pankaj Yadav
+
+[SQS_Testers]
+00=.TESTERS
+01=Alok Kulkarni
+02=Atul Gaikwad
+03=Akshay Chavan
+04=Amir Pawar
+05=Abhijit Javkhedkar
+06=Amit Kamble
+07=Arpit Dhokriya
+08=Harshad Edake
+09=Jay Bhambure
+10=Kushal Ruparel
+11=Mangesh Gulabrao
+12=Nishant Rawat
+13=Nilesh Patil
+14=Nongdon Sorokhaibam
+15=Omkar Phadnis
+16=Rahul Bari
+17=Robin Geevarghese
+18=Swapnil Gaikwad
+19=Sameer Phatak
+20=Sanket Chhajed
+21=Vishal Deshpande
+
+[SQS_Title]
+00=&SQS QA
+
+[ScoreCoordinator]
+00=.SCORE COORDINATOR
+01=Nick Fevola
+
+[ScoreRecordedAndMixedBy]
+00=.SCORE RECORDED & MIXED BY
+01=Nick Wollage
+
+[SpecialThanks]
+00=*Special Thanks:
+01=Jake Kirshen
+
+[StoryWrittenBy]
+00=.STORY WRITTEN BY
+01=Paul Dini, Paul Crocker and Sefton Hill
+
+[TT_HeadQA]
+00=.HEAD OF QA
+01=Graham Stark
+
+[TT_QALeads]
+00=.QA LEADS
+01=Sam Delaney
+02=James Gourlay
+03=Lee Meader
+
+[TT_QATesters]
+00=.QA TESTERS
+01=Jake Almond
+02=Kim Arnold
+03=Stewart Benson
+04=Tom Brown
+05=Adam Gott
+06=Samantha Petter
+07=Sam Robertson
+08=Stephen Shearing
+09=Peter David Spencer
+10=Tom Syrett
+
+[TT_Title]
+00=&TT GAMES PUBLISHING
+
+[VoiceOverActors]
+00=.VOICE OVER ACTORS
+01=Alazarqui, Carlos
+02=Baker, Dee
+03=Baker, Troy
+04=Bauza, Eric
+05=Blum, Steve
+06=Brooks, Kimberly
+07=Burton, Corey
+08=Conroy, Kevin
+09=Cox, Chris
+10=DeLisle, Grey
+11=Dini, Misty
+12=Freeman, Crispin
+13=Gardner, Chris
+14=Gough, Michael
+15=Hamill, Mark
+16=Holt, Joe
+17=Horan, James
+18=Jacobs, Danny
+19=Jarvis, Martin
+20=Kane, Tom
+21=Katic, Stana
+22=Kaye, David
+23=LaMarche, Maurice
+24=MacNicol, Peter
+25=Meskimen, Jim
+26=North, Nolan
+27=Payton, Khary
+28=Rose, Roger
+29=Shepherd, Dwayne
+30=Strong, Tara
+31=Tatasciore, Fred
+32=Valenza, Tasia
+33=Wahlgren, Kari
+34=Wasilewski, Audrey
+35=Wasserman, Rick
+36=Wingert, Wally
+
+[VoiceOverDirector]
+00=.VOICE-OVER DIRECTOR
+01=Collette Sunderman
+
+[WBNET_AssociateProducer]
+00=.ASSOCIATE PRODUCER
+01=David Sinur
+
+[WBNET_BussIntelAnalysts]
+00=.BUSINESS INTELLIGENCE ANALYSTS
+01=Aman Sood
+
+[WBNET_DevDirEngineer]
+00=.DEVELOPMENT DIRECTOR OF ENGINEERING
+01=Mike Roche
+
+[WBNET_DirBusinessIntel]
+00=.DIRECTOR BUSINESS INTELLIGENCE
+01=Tim Twombly
+
+[WBNET_DirGameTech]
+00=.DIRECTOR OF GAME TECHNOLOGY
+01=Erik Juhl
+
+[WBNET_DirectorComms]
+00=.DIRECTOR OF COMMUNICATIONS
+01=Adam Mersky
+
+[WBNET_DirectorSQA]
+00=.DIRECTOR OF SQA
+01=Paul Sterngold
+
+[WBNET_EngManagers]
+00=.ENGINEERING MANAGERS
+01=Alex Lian
+02=Eric Bressler
+03=John Toomey
+
+[WBNET_ExecDirMarketing]
+00=.EXECUTIVE DIRECTOR OF MARKETING
+01=Jim Drewry
+
+[WBNET_ExecProducer]
+00=.EXECUTIVE PRODUCER
+01=Henrik Strandberg
+
+[WBNET_GraphicDesigners]
+00=.GRAPHICS DESIGNERS
+01=Adam Fogg
+02=Joseph Rousseau
+03=Raoul Kim
+04=Rick Woolford
+
+[WBNET_LeadWebDev]
+00=.LEAD WEB DEVELOPER
+01=Joshua Hodge
+
+[WBNET_OnlineCommRelationsSpec]
+00=.ONLINE COMMUNITY RELATIONS SPECIALIST
+01=Andy Cataldo
+
+[WBNET_ProjectManager]
+00=.PROJECT MANAGER
+01=Dennis Bachman
+
+[WBNET_PublishingExec]
+00=.PUBLISHING EXECUTIVE PRODUCER
+01=Jean-Marc Broyer
+
+[WBNET_PublishingProducer]
+00=.PUBLISHING PRODUCER
+01=David Silverstein
+
+[WBNET_SQAEngineers]
+00=.SQA ENGINEERS
+01=David Ramsden
+02=Din Mohammad
+03=Edward Lee
+04=Ethan Gafford
+05=James Curran
+06=Jeremy Gallagher
+07=Jonathan Lindemann
+08=Justin Brien
+09=Mark Bonassera
+10=Neil Matheson
+
+[WBNET_SQAManagers]
+00=.SQA MANAGERS
+01=Michelle Mangio
+02=Robert Ferreira
+
+[WBNET_SeniorDirPlatTech]
+00=.SENIOR DIRECTOR OF PLATFORM TECHNOLOGY
+01=Grant Wei
+
+[WBNET_SoftEngineers]
+00=.SOFTWARE ENGINEERS
+01=Chris LaCivita
+02=Christopher Bianchi
+03=Robert Getter
+
+[WBNET_Title]
+00=&ONLINE TECHNOLOGY PLATFORM
+
+[WBNET_VPTech]
+00=.VICE PRESIDENT, TECHNOLOGY
+01=Chris Dyl
+
+[WBNET_WebDev]
+00=.WEB DEVELOPERS
+01=Andrew Dietz
+02=Dave Hendler
+03=Jason Kafalas
+04=Luis Cruz
+05=Mark DiAntonio
+06=Robert Johnson
+
+[WBNET_WebProducer]
+00=.WEB PRODUCER
+01=David Beebe
+
+[WB_APACTitle]
+00=*APAC REGIONAL OFFICE
+
+[WB_AdrMixer]
+00=.ADR MIXER
+01=Jason Oliver
+
+[WB_AssociateProducer]
+00=.ASSOCIATE PRODUCER
+01=Matthew Mizutani
+
+[WB_BrazilSales]
+00=.BRAZIL SALES
+01=Bianca Fragoso
+02=Cleyton Oliveira
+
+[WB_CanadaSales]
+00=.CANADA SALES
+01=Rasmus Fahraeus
+02=Daniel Sutherland
+
+[WB_CertTesters]
+00=.CERTIFICATION TESTERS
+01=Lowell Abuan (VOLT)
+02=Jeremy Bento
+03=Steve Bonaci
+04=Steve Boyce (VOLT)
+05=Jared Carew (VOLT)
+06=Nicholas Chapman (VOLT)
+07=Rolando Cisneros (VOLT)
+08=Rob Coster (VOLT)
+09=Dan Crisafulli
+10=Lydia Dunning
+11=Doug Faddis
+12=Tanner Johnson (VOLT)
+13=Lauren Matthew (VOLT)
+14=Mark Neiderer
+15=Tyler Nevitt
+16=Brianna Ogas
+17=Shivaun Robinson
+18=Robert Schatz (VOLT)
+19=Matthew Smith (VOLT)
+20=Martino Soliman (VOLT)
+21=Steven Wright
+22=Tina Zhang (VOLT)
+
+[WB_CreativeDirector]
+00=.CREATIVE DIRECTOR
+01=Mario Maltezos
+
+[WB_DepGeneralCounsel]
+00=.DEPUTY GENERAL COUNSEL
+01=Jennifer Stump
+
+[WB_DirectorArt]
+00=.DIRECTOR, ART
+01=David Silverman
+
+[WB_DirectorDesign]
+00=.DIRECTOR, DESIGN
+01=Frank Rooke
+
+[WB_DirectorDevRelAcquisitions]
+00=.DIRECTOR, DEVELOPER RELATIONS AND ACQUISITIONS
+01=Michael Leon
+
+[WB_DirectorEngineering]
+00=.DIRECTOR, ENGINEERING
+01=Yvo Zoer
+
+[WB_DirectorFirstPartyOps]
+00=.DIRECTOR, FIRST PARTY OPERATIONS
+01=Baki Allen
+
+[WB_DirectorInternationalFinance]
+00=.DIRECTOR, INTERNATIONAL FINANCE
+01=Matthew Marshall
+
+[WB_DirectorMarketing]
+00=.DIRECTOR, MARKETING
+01=Philip Ser
+
+[WB_DirectorProduction]
+00=.DIRECTOR, PRODUCTION
+01=Gordon Fong
+
+[WB_DirectorQA]
+00=.DIRECTOR OF QUALITY ASSURANCE
+01=Andrew Binder
+
+[WB_DirectorSalesMarketingAPAC]
+00=.DIRECTOR, SALES AND MARKETING APAC
+01=Mark Aubrey
+
+[WB_DirectorStratMarketDev]
+00=.DIRECTOR, STRATEGIC MARKET DEVELOPMENT
+01=Lowell Vaughen
+
+[WB_DirectorSupplyChainEMEA]
+00=.DIRECTOR SUPPLY CHAIN, EMEA
+01=Annette Fleming
+
+[WB_DirectorTalentRelations]
+00=.DIRECTOR, TALENT RELATIONS
+01=Karen Fishman
+
+[WB_EMEATitle]
+00=*EMEA REGIONAL OFFICE
+
+[WB_ExecProducer]
+00=.EXECUTIVE PRODUCER
+01=Ames Kirshen
+
+[WB_ExecVicePresWorldOps]
+00=.EXECUTIVE VICE PRESIDENT, WORLDWIDE OPERATIONS
+01=John Quinn
+
+[WB_FoleyArtist1]
+00=.FOLEY ARTIST
+01=John Roesch
+
+[WB_FoleyArtist2]
+00=.FOLEY ARTIST
+01=Alyson Dee Moore
+
+[WB_FoleyMixer]
+00=.FOLEY MIXER
+01=Mary Joe Lang
+
+[WB_Games]
+00=*WARNER BROS. GAMES
+
+[WB_InfoTech]
+00=.INFORMATION TECHNOLOGY
+01=Amanda Hardiman
+02=Spencer Maiers
+03=Josh Lebow
+04=Marvin Brown
+05=Randi Cowett
+06=Michael ‘Lurch' Robinson
+07=Aaron Bockelie
+08=Pete Peterson
+
+[WB_InternationalSupplyChainManager]
+00=.INTERNATIONAL SUPPLY CHAIN MANAGER
+01=Mark Hards
+
+[WB_JnrManagerCreativeServicesLocEMEA]
+00=.JUNIOR MANAGER CREATIVE SERVICES & LOCALISATION, EMEA
+01=Zoë Taylor
+
+[WB_JnrProdManagerEMEA]
+00=.JUNIOR PRODUCT MANAGER, EMEA
+01=Alex Friend
+
+[WB_LeadSupport]
+00=.LEAD SUPPORT
+01=Timothy Reed
+
+[WB_ManagerFirstPartyOps]
+00=.MANAGER, FIRST PARTY OPERATIONS
+01=Wendy Bozzi
+
+[WB_ManagerInfoTech]
+00=.MANAGER INFORMATION TECHNOLOGY
+01=Adrian DuPre
+
+[WB_ManagerMarketingAPAC]
+00=.MANAGER, MARKETING APAC
+01=Nick Wong
+
+[WB_ManagerPRAPAC]
+00=.MANAGER, PUBLIC RELATIONS APAC
+01=Joel Graham
+
+[WB_ManagerRightsClearances]
+00=.MANAGER, RIGHTS AND CLEARANCES
+01=Jane Elms
+
+[WB_ManagerSalesComms]
+00=.MANAGER, SALES COMMUNICATIONS
+01=Gail Arceneaux
+
+[WB_ManagerTradeMarketing]
+00=.MANAGER, TRADE MARKETING
+01=Blake Hennon
+
+[WB_MarketingAssetsCoord]
+00=.MARKETING ASSETS COORDINATOR
+01=Janci Morimoto
+
+[WB_MarketingAssetsManager]
+00=.MARKETING ASSETS MANAGER
+01=Deron Fields
+
+[WB_MarketingAssociate]
+00=.MARKETING ASSOCIATE
+01=Geoffrey Chandler
+
+[WB_MarketingAssociate1]
+00=.MARKETING ASSOCIATE
+01=Andrew Meengern
+
+[WB_MarketingCoord]
+00=.MARKETING COORDINATOR
+01=Katherin Zettner
+
+[WB_MarketingManager]
+00=.MARKETING MANAGER
+01=Michael Elkind
+
+[WB_MarketingManagerEMEA]
+00=.MARKETING MANAGER, EMEA
+01=Olivier Perbet
+
+[WB_MarketingPRDirectorEMEA]
+00=.MARKETING & PR DIRECTOR, EMEA
+01=Hester Woodliffe
+
+[WB_MarketingPRIntern]
+00=.MARKETING & PR INTERN
+01=Ben Finch
+
+[WB_MexicoSales]
+00=.MEXICO SALES
+01=Joaquin Colino
+
+[WB_NationalAccountManager]
+00=.NATIONAL ACCOUNT MANAGER
+01=Douglas Conrad Hilton
+
+[WB_PAHesterWoodliffe]
+00=.PA to HESTER WOODLIFFE
+01=Lara McGuinness
+
+[WB_PRExecutiveEMEA]
+00=.PR EXECUTIVE, EMEA
+01=George Kelion
+
+[WB_PRManager]
+00=.PR MANAGER
+01=Kehau Rodenhurst
+
+[WB_PRManagerEMEA]
+00=.PR MANAGER, EMEA
+01=Julie Skinner
+
+[WB_PRRepresentative]
+00=.PR REPRESENTATIVE
+01=Jessica Holloway
+
+[WB_President]
+00=.PRESIDENT
+01=Martin Tremblay
+
+[WB_ProdManagerEMEA]
+00=.PRODUCT MANAGER, EMEA
+01=Rob Lightbody
+
+[WB_Producer]
+00=.PRODUCER
+01=Ernest “Jib” Zamora, Jr
+
+[WB_ProductionAssist]
+00=.PRODUCTION ASSISTANT
+01=Alicia Sprague
+
+[WB_ProductionCoordinator1]
+00=.PRODUCTION ADMINISTRATOR
+01=Jamie O'Brien-Moore
+
+[WB_ProductionCoordinator2]
+00=.PRODUCTION COORDINATOR
+01=Dayna Smith
+
+[WB_Publishing]
+00=&Warner Bros. Publishing
+
+[WB_QAAnalysts]
+00=.QUALITY ASSURANCE ANALYSTS
+01=Nathan Hutchinson
+02=Ryan Ladeen
+03=Nelson Lavin
+04=Brian Meloy
+05=Carrie Bartlett (VOLT)
+06=Andrew Baum (VOLT)
+07=Jason Baumgardner (VOLT)
+08=Jeffrey Brown (VOLT)
+09=Sean Conroy (VOLT)
+10=Justine Coven (VOLT)
+11=Jordan Dolan (VOLT)
+12=Tamara El-Khatib (VOLT)
+13=Isa Farnik (VOLT)
+14=Ryan Hammond (VOLT)
+15=Brian Haucke (VOLT)
+16=Ricky Jurey (VOLT)
+18=Robert Kehoe (VOLT)
+19=Lincoln Li (VOLT)
+20=Bob Lindstrom (VOLT)
+21=Peter Lytle (VOLT)
+22=Andrew Marriott (VOLT)
+23=Mitchell Murphy (VOLT)
+24=Ben Nason (VOLT)
+25=Genny St-Charles (VOLT)
+26=Amanda Schneider (VOLT)
+27=Brandon Stewart (VOLT)
+28=Shane Todd (VOLT)
+29=Sean Turner (VOLT)
+30=Boris Todorovic (VOLT)
+
+[WB_QACertSupervisor]
+00=.QA CERTIFICATION SUPERVISOR
+01=Jessica Masnica
+
+[WB_QACertTeam]
+00=.QA CERTIFICATION TEAM
+01=Jeremy Bento
+02=Steve Bonaci
+03=Dan Crisafulli
+04=Lydia Dunning
+05=Doug Faddis
+06=Tanner Johnson
+07=Mark Neiderer
+08=Tyler Nevitt
+09=Brianna Ogas
+10=Shivaun M. Robinson
+11=Steven Wright
+12=Tina Zhang
+13=Lowell Abuan (VOLT)
+14=Jason Ausmus (VOLT)
+15=Steve Boyce (VOLT)
+16=Erin Brockway (VOLT)
+17=Jared Carew (VOLT)
+18=Douglas Carter (VOLT)
+19=Nicholas Chapman (VOLT)
+20=Rolando Cisneros (VOLT)
+21=Rob Coster (VOLT)
+22=Brandon Edsforth (VOLT)
+23=Courtland Fichter (VOLT)
+24=Jacob Fieth (VOLT)
+25=Joel Flamme (VOLT)
+26=Darin Flynn (VOLT)
+27=Victor Hallock (VOLT)
+28=Tyler Johnson (VOLT)
+29=Lauren Matthew (VOLT)
+30=Robert Schatz (VOLT)
+31=Matthew Smith (VOLT)
+32=Martino Soliman (VOLT)
+
+[WB_QALead]
+00=.QA LEAD
+01=John Holdeman
+
+[WB_QA_Title]
+00=*WB GAMES QA
+
+[WB_RatingsSpecialist]
+00=.RATINGS SPECIALIST, FIRST PARTY OPERATIONS
+01=Adam Friedberg
+
+[WB_SalesAnalysisManagerEMEA]
+00=.SALES ANALYSIS MANAGER, EMEA
+01=Dean Purse
+
+[WB_SalesCoordinatorEMEA]
+00=.SALES CO-ORDINATOR, EMEA
+01=Shazad Asher
+
+[WB_SalesIntern]
+1_00=.SALES INTERN
+1_01=Tom Bushell
+
+[WB_SalesIntern2]
+00=.SALES INTERN
+01=James Bright
+
+[WB_SalesPA]
+00=.SALES PA
+01=Claire Malyon
+
+[WB_SalesPlanningAnalysis]
+0=.SALES PLANNING & ANALYSIS
+1=Diana Gaines
+2=Sam Huang
+3=Chris Hughes
+4=Mat Piscatella
+
+[WB_SeniorCertTesters]
+00=.SENIOR CERTIFICATION TESTERS
+01=Earl Bantug
+02=Patrick Orr
+
+[WB_SeniorQA]
+00=.SENIOR QUALITY ASSURANCE:
+01=Tyler Anderson
+02=Josh Bugenig
+03=Skye Campbell
+04=Jordan Harrison
+05=Adam Johnson
+06=Charles Pierce
+07=Jarret Russell
+08=Jesse Wood
+
+[WB_SnrRepLocalizationManager]
+00=.SENIOR REPRESENTATIVE LOCALIZATION MANAGER
+01=Alex Johnson
+
+[WB_SnrVicePresBusOperations]
+00=.SENIOR VICE PRESIDENT, BUSINESS OPERATIONS
+01=Debra Baker
+
+[WB_SnrVicePresProdDevelopment]
+00=.SENIOR VICE PRESIDENT, PRODUCTION & DEVELOPMENT
+01=Samantha Ryan
+
+[WB_SnrVicePresSalesDist]
+00=.SR. VICE PRESIDENT, SALES & DISTRIBUTION
+01=Kevin Kebodeaux
+
+[WB_SnrVicePresWorldMarketing]
+00=.SENIOR VICE PRESIDENT, WORLDWIDE MARKETING
+01=Russell Arons
+
+[WB_Sound]
+00=.WB SOUND
+01=Bryan Watkins
+02=Zach Ross
+03=Mitch Osias
+
+[WB_SoundDesigner]
+00=.SOUND DESIGNER
+01=Mitch Osias
+
+[WB_SoundEditor]
+00=.SOUND EDITOR
+01=Zach Ross
+
+[WB_SoundEngineer]
+CREDITS_SoundEngineer_00=.SOUND ENGINEER
+CREDITS_SoundEngineer_01=Jason Oliver
+
+[WB_SubmissionsSpecialist]
+00=.SUBMISSIONS SPECIALIST
+01=Jacob Troxell
+
+[WB_SupervisingSoundDesigner]
+00=.SUPERVISING SOUND DESIGNER
+01=Bryan Watkins
+
+[WB_SupplyChainManagerGames]
+00=.SUPPLY CHAIN MANAGER, GAMES
+01=Jon Broadbridge
+
+[WB_USSales]
+00=.US SALES
+01=Amber Allen
+02=Penny Armstrong
+03=Paula Cook
+04=Monique Doubet
+05=Sharon Gamble
+06=Rebecca Guerrero
+07=Jenna Hardy
+08=Steven Hosey
+09=Dana Larivee
+10=Monica Loya-Clarke
+11=Greg Mucha
+12=Amy Roberts
+13=Jason Seto
+14=Carl Steele
+15=Echo Storch
+
+[WB_UsabilityManager]
+00=.USABILITY MANAGERS
+01=Benjamin Lile
+02=Steven Mathiesen
+03=Walker Tate
+
+[WB_VicePresBusDevelopment]
+00=.VICE PRESIDENT, BUSINESS DEVELOPMENT
+01=Scott Johnson
+
+[WB_VicePresDevelopment]
+00=.VICE PRESIDENT, DEVELOPMENT
+01=Kevin Stephens
+
+[WB_VicePresFinance]
+00=.VICE PRESIDENT, FINANCE
+01=Steve Chalk
+
+[WB_VicePresMarketing]
+00=.VICE PRESIDENT, MARKETING
+01=Matt Geyer
+
+[WB_VicePresPR]
+00=.VICE PRESIDENT, PR
+01=Remi Sklar
+
+[WB_VicePresProduction]
+00=.VICE PRESIDENT, PRODUCTION
+01=Peter Wyse
+
+[WB_VicePresProjectMgmtProcess]
+00=.VICE PRESIDENT, PROJECT MANAGEMENT & PROCESS
+01=Michel Allard
+
+[WB_VicePresTradeMarketing]
+00=.VICE PRESIDENT, TRADE MARKETING
+01=Anne Marko

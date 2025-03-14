@@ -1,0 +1,39 @@
+﻿
+[CrimeScene]
+AssassinBandages=Blood Covered Bandages
+AssassinTrophy=Assassin's Blood
+BulletHole=Ballistic Trajectory
+Hobo1Sniperpoint=Gunshot Origin
+Hobo2Sniperpoint=Gunshot Origin
+Hobo3RicochetPoint=Ballistic Ricochet
+Hobo3Sniperpoint=Gunshot Origin
+SniperRifle=Sniper Rifle Radio Transmitter
+Victim1=Murder Victim
+Victim2=Identity Theft Victim 2
+Victim3=Identity Theft Victim 3
+fake1fakestash=Possible Deadshot Location
+fake2fakestash=Possible Deadshot Location
+hobo1deadbody=Ballistic Trajectory
+hobo1snipertrail=Gunshot Origin
+hobo2deadbody=Ballistic Trajectory
+hobo2snipertrail=Gunshot Origin
+hobo3deadbody=Ballistic Trajectory
+hobo3snipertrail=Gunshot Origin
+realstash=Possible Deadshot location
+
+[DroneScanning]
+AreaAlreadyScanned=This area has already been scanned
+DroneScanningTitle=Flight path scan
+NeedToGetHigher=Scan occluded - higher elevation required
+
+[Trails]
+AssassinBandages=Assassin's Bloody Bandages
+AssassinBlood=Forensic Trail: Assassin's Blood
+BuggedNinja=Tracker Signature
+Bullethole=Projectile Trajectory Tracking
+JammedDetectiveMode=Signal Jammed
+JammerTowers=Tracing Jamming Source
+MrFreeze=Mister Freeze
+SniperSignal=Radio Transmission Source
+Victim1Blood=Forensic Trail: Murder Victim's Blood
+Victim3GFootPrint=Forensic Trail: Bleach

@@ -1,0 +1,184 @@
+﻿
+[ARTraining]
+CaseFileName=A.R. TRAINING
+P0=Complete 4 challenges to unlock Grapnel Boost upgrade
+P10=Complete 3 challenges to unlock Grapnel Boost upgrade
+P100=AR navigational training completed
+P20=Complete 2 challenges to unlock Grapnel Boost upgrade
+P200=
+P30=Complete 1 challenge to unlock Grapnel Boost upgrade
+P40=Collect the prototype Grapnel Boost upgrade
+P60=Complete advanced challenges
+P70=Complete advanced challenges
+P80=Complete advanced challenges
+P90=Complete advanced challenges
+S0=AR navigational training
+S100=AR navigational training completed
+
+[Azrael]
+CaseFileName=WATCHER IN THE WINGS
+P0=Stay vigilant for sightings of the mystery figure and scan the clues he leaves behind
+P1=Solve the puzzle hidden in the symbols
+P10=
+P2=Investigate the location revealed by the symbols
+S0=Who is the mysterious figure watching me?
+S1=Azrael identified - Flagged for further investigation at Batcave
+
+[Bane]
+BaneLocation=Bane's Lair
+CaseFileName=FRAGILE ALLIANCE
+P0=
+P1=6 TITAN containers remaining
+P100=Bane neutralized - Case file closed
+P15=TITAN container destroyed
+P2=5 TITAN containers remaining
+P20=All TITAN containers destroyed
+P3=4 TITAN containers remaining
+P30=Return to Bane in the Krank Co. Toy Factory
+P4=3 TITAN containers remaining
+P5=2 TITAN containers remaining
+P6=1 TITAN container remaining
+S0=Work with Bane to destroy all the TITAN containers in Arkham City
+S10=Bane neutralized - Case file closed
+
+[Bullies]
+CaseFileName=ACTS OF VIOLENCE
+P0=
+S0=Stop the random acts of violence against the political prisoners inside Arkham City
+S10=Political prisoner rescued
+S100=Political prisoners rescued - Case file closed
+
+[DeadShot]
+CaseFileName=SHOT IN THE DARK
+NewVictim=New Deadshot victim located
+P0=
+P10=Track the sniper bullet trajectory to locate the origin of the shot
+P15=Scan the sniper shot origin crime scene for evidence
+P20=Find further leads to continue the investigation
+P23=Locate Deadshot assassination victim #2 - position triangulated to this sector
+P25=Scan the assassination crime scene for evidence
+P30=Track the sniper bullet trajectory to locate the origin of the shot
+P35=Scan the sniper shot origin crime scene for evidence
+P40=Potential areas highlighted. Need more evidence.
+P45=Find further leads to continue the investigation
+P47=Locate Deadshot assassination victim #3 - position triangulated to this sector
+P5=Scan the assassination crime scene for evidence
+P50=Scan the assassination crime scene for evidence
+P55=Track the sniper bullet trajectory to locate the origin of the shot
+P70=Scan the sniper shot origin crime scene for evidence
+P75=Search the three possible locations for clues to Deadshot's whereabouts
+P80=Retrieve information from Deadshot's PDA
+P85=Save Jack Ryder from being assassinated by Deadshot
+P90=Defeat Deadshot
+P95=Deadshot neutralized - Case file closed
+S0=
+S10=Find and stop Deadshot
+S20=Deadshot neutralized - Case file closed
+S5=Find and stop the mystery assassin
+
+[FreezeCluster]
+CaseFileName=HOT AND COLD
+P0=
+S0=Locate the Freeze technology stolen by Joker in the Steel Mill
+S100=Freeze Cluster upgrade collected - Case file closed
+
+[Hush]
+CaseFileName=IDENTITY THEFT
+NewVictim=New murder victim located
+P0=
+P10=Follow the blood trail to try and uncover further information
+P20=Find further leads to continue the investigation
+P25=Scan the crime scene for evidence
+P27=Find further leads to continue the investigation
+P30=Scan the crime scene for evidence
+P35=Follow the bleach trail to try and uncover further information
+P45=Investigate the killer's hideout
+P5=Scan the crime scene for evidence
+P50=Search the hideout for evidence
+P55=Hush identity revealed - Flagged for further investigation at Batcave
+S0=Investigate suspicious circumstances of murdered inmate
+S10=Hush identity revealed - Flagged for further investigation at Batcave
+S5=Find out who is behind the Identity Theft murders
+
+[IceBergCops]
+CaseFileName=REMOTE HIDEAWAY
+P0=
+S0=Rendezvous with the undercover cops in the Iceberg Lounge to collect upgrade
+S100=Remote Mine Detonator collected - Case file closed
+
+[Mad_Hatter]
+CaseFileName=THE TEA PARTY
+P0=Fight to regain your sanity
+P10=Mad Hatter neutralized - Case file closed
+P15=
+S0=Is this a potential cure for Joker's poisoned blood?
+S15=Mad Hatter neutralized - Case file closed
+
+[Nora]
+CaseFileName=HEART OF ICE
+Complete=Nora rescued - Case file closed
+FreezeLoc=Mister Freeze's location
+NoraLoc=Nora's location
+P0=Track down where Joker is holding Freeze's wife and rescue her
+P20=Return to Mister Freeze in GCPD to let him know the location of his wife
+P30=
+S0=Reunite Freeze with his wife, Nora Fries, who has been kidnapped by Joker
+S30=Nora rescued - Case file closed
+SS_Nora_NoraZone=Approximate area where Nora is being held
+
+[Riddler]
+01=
+CaseFileName=ENIGMA CONUNDRUM
+P0=Rescue the hostage from the Courthouse
+P100=Riddler neutralized - Case file closed
+P105=
+P15=Find more Riddler secrets to reveal the location of the next Riddler room
+P20=Use the Enigma Machine to unlock the location of the next Riddler room
+P22=Rescue the hostage from the second Riddler room
+P30=Find more Riddler secrets to reveal the location of the next Riddler room
+P35=Use the Enigma Machine to unlock the location of the next Riddler room
+P37=Rescue the hostage from the third Riddler room
+P45=Find more Riddler secrets to reveal the location of the next Riddler room
+P5=Rescue the hostage from the Riddler room
+P50=Use the Enigma Machine to unlock the location of the next Riddler room
+P52=Rescue the hostage from the fourth Riddler room
+P60=Find more Riddler secrets to reveal the location of the final Riddler room
+P65=Use the Enigma Machine to unlock the location of the final Riddler room
+P67=Rescue the hostage from the final Riddler room
+P75=Find more Riddler secrets to unlock the location of Riddler's hideout and confront the Riddler.
+P90=Find Riddler's hideout and take down the Riddler
+S0=Save the hostages from Riddler
+S1=Riddler neutralized - Case file closed
+
+[SideMission]
+ARChallenge1=Complete AR training challenges
+ARChallenge10=Complete AR training challenges
+ARChallenge2=Complete AR training challenges
+ARChallenge3=Complete AR training challenges
+ARChallenge4=Complete AR training challenges
+ARChallenge5=Complete AR training challenges
+ARChallenge6=Complete AR training challenges
+ARChallenge7=Complete AR training challenges
+ARChallenge8=Complete AR training challenges
+ARChallenge9=Complete AR training challenges
+ARChallengeGrapnel=Collect the Grapnel Boost upgrade
+CH6SteelB2POI=Locate the Freeze technology stolen by Joker in the Steel Mill
+Ch5IcebergLoungePOI=Rendezvous with undercover cops in Iceberg Lounge to collect upgrade
+NotSure=Collect Grapnel Boost upgrade dropped off by Batwing
+SSBanePOI=Investigate reason for distress flare
+SSDeadshotPOI=Investigate SOS broadcast source
+SSHushPOI=Investigate suspicious circumstances of murdered inmate
+SSHushPOI2=Investigate Identity Theft victim #2 crime scene
+SSHushPOI3=Investigate Identity Theft victim #3 crime scene
+SSMadHatterPOI=Collect cure deployed by Alfred
+SSRiddlerPOI=Investigate reason for lost contact with medical team
+Title=SIDE MISSION:
+Unknown=Unknown
+
+[Zsasz]
+CaseFileName=COLD CALL KILLER
+P0=Answer Zsasz's phone calls to triangulate his position
+P101=Location identified - Take down Zsasz and save the hostages
+P102=
+S0=Stop Zsasz from capturing and murdering random targets in Arkham City
+S1=Zsasz neutralized - Case file closed

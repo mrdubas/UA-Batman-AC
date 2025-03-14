@@ -1,0 +1,203 @@
+﻿
+[BatChal]
+01=Glide continuously for over 150 meters (without using the Grapnel Boost upgrade)
+02=Glide continuously for 250 meters (Grapnel Boost upgrade permitted)
+03=Perform a vertical dive for over 50 meters
+04=Perform five consecutive line launches without touching the ground
+05=Glide for 30 meters while maintaining a height of less than 5 meters above the water
+06=Achieve a x20 combat combo
+07=Use 3 Quickfire gadgets in one combat encounter
+08=Achieve a x5 variation bonus in one combat encounter
+09=Aerial Attack off a stunned enemy into another (3 required)
+10=Use the Slide to trip an enemy (3 required)
+11=Perform a Beat Down to finish an enemy (5 required)
+12=Counter an enemy projectile (3 required)
+13=Hit an explosive object with a Batarang before it is thrown
+14=Take out 2 enemies at once with the Glide Boost Attack
+15=Use a Combo Batarang in combat (10 required)
+16=Perform a Batclaw Slam (5 required)
+17=Use the Quickfire Remote Electrical Charge during a combo (5 required)
+18=Use the Quickfire Explosive Gel during a combo (5 required)
+19=Use the Quickfire Freeze Blast during a combo (5 required)
+20=Use the Smoke Pellet to disorientate enemies into attacking each other
+21=Finish a fight with a Combo Batarang (3 required)
+22=Use the Remote Electrical Charge to get an armed enemy to fire his weapon and surprise at least one other nearby enemy
+23=Use the Remote Electrical Charge to force an enemy to hit another enemy (3 required)
+24=Use the Remote Electrical Charge to blast one armored thug into any other thug
+25=Use the Freeze Cluster Grenade to immobilize three or more henchmen at one time (upgrade required).
+26=Use the Freeze Blast to freeze an armed enemy before taking him out
+27=Use the Freeze Blast to freeze an enemy then a Batarang to knock them down
+28=Use the Smoke Pellet to disorientate an armed enemy and follow up with a Takedown
+29=Disarm an enemy using the Batclaw Disarm (3 required)
+30=Use the Disruptor to jam the gun of an armed enemy and then get him to try and fire
+31=Use the Remote Electrical Charge to temporarily disable a backpack Jammer device
+32=Perform a Grapnel Boost Takedown
+33=Use the Reverse Batarang to knock down an enemy
+34=Take down an enemy using the Sonic Shock Batarang
+35=Kick an enemy while riding on the Line Launcher (3 required)
+36=While riding on the Line Launcher towards an unaware enemy, use the Takedown attack to drop down and knock them out
+37=Perform an Inverted Takedown from a Vantage Point
+38=Perform a Knockout Smash (5 required)
+39=Catch a Remote Batarang
+40=Fly a fully boosted Remote Batarang into a thug and send him flying through the air
+41=Use Caltrops to stun an enemy (3 required)
+42=Perform a Special Combo Whiplash and Special Combo Whip Trip in one combo flow
+43=Complete one Claw Climb using at least 8 separate leaps without missing the timing for a single jump
+44=Perform a Pounce attack (3 Required)
+45=Use the Quickfire Whip attack during combat (3 required)
+
+[Grid]
+Balloon12=Joker Balloon
+Balloon12Desc=Can the knight burst the clown's bubble?
+Balloon3=Joker Balloon
+Balloon3Desc=Would a pin prove quite as dangerous to the real clown?
+Balloon6=Joker Balloon
+Balloon6Desc=Stay away from sharp objects, Dark Knight, or this may burst.
+Balloon9=Joker Balloon
+Balloon9Desc=Pop goes the clown?
+BatmanCombat=Combat Challenge
+BatmanGadget=Gadget Challenge
+BatmanNav=Navigational Challenge
+CWPickup=Catwoman Trophy
+CWPickupDesc=Will the cat bag all the trophies?
+Camera12=TYGER Security Camera
+Camera12Desc=Why are the TYGER's eyes in the sky?
+Camera3=TYGER Security Camera
+Camera3Desc=These Tyger's eyes burn bright in the sky.
+Camera6=TYGER Security Camera
+Camera6Desc=Do you feel like you're being watched? Maybe you are.
+Camera9=TYGER Security Camera
+Camera9Desc=How many eyes are watching from the skies?
+CameraHub=TYGER CCTV Relay Hub
+CameraHubDesc=Interrogate the TYGER's brain, and you may learn how to blind it.
+Catwoman=Catwoman Challenge
+Chip=CHIP
+Head12=Harley Head
+Head12Desc=I charge you with willful destruction of Joker's property, Dark Knight.
+Head3=Harley Head
+Head3Desc=I'm surprised that Joker hasn't knocked the head off this annoying woman already.
+Head6=Harley Head
+Head6Desc=Will someone please shut up that annoying woman?
+Head9=Harley Head
+Head9Desc=This chatty idiot needs gagging; permanently.
+Penguin12=Penguin
+Penguin12Desc=No matter what you throw at it, this bird won't fly away.
+Penguin3=Penguin
+Penguin3Desc=Which ice cold birds can't fly?
+Penguin6=Penguin
+Penguin6Desc=These birds are dressed for dinner. Are you hungry?
+Penguin9=Penguin
+Penguin9Desc=Is this lone bird looking for its emperor?
+Pickup=Riddler Trophy
+PickupDesc=Will you be able to find them all?
+Pred=Invisible Predator Challenge
+Riddle=Riddle
+Tape=Interview Tape
+Teeth12=Joker Teeth
+Teeth12Desc=Are you cold? No? Then what's all the chattering about?
+Teeth3=Joker Teeth
+Teeth3Desc=What's that annoying noise?
+Teeth6=Joker Teeth
+Teeth6Desc=Chatter, chatter, chatter. Why won't you just shut up?
+Teeth9=Joker Teeth
+Teeth9Desc=I can hear you from here, are you cold or just scared?
+TitleCatwomanPickPocket=Catwoman PickPocket
+TitleCatwomanPickup=Catwoman Pickup
+TitleRiddle=Riddle
+TitleTape=Tape
+TitleTrophy=Riddler Trophy
+Under12=Demon Seal
+Under12Desc=Is this the the signature of a demon?
+Under3=Demon Seal
+Under3Desc=How does the demon make his mark?
+Under6=Demon Seal
+Under6Desc=Do you know how to write the demon's name?
+Under9=Demon Seal
+Under9Desc=This name will seal the deal for us all.
+
+[Museum]
+1=This question can only be answered from an unusual perspective. Can you get yourself there?
+2=Who's in control here? The puppet or the puppeteer?
+3=Was he framed? Or does it run in the family?
+4=Have Joker's pets laughed themselves to death, or just eaten too much?
+5=Brothers in arms. Brothers at war. Who's right? Who's... Left?
+6=See no evil, hear no evil, speak no evil, or there will be explosive consequences.
+7=Can anyone TOP the Penguin when it comes to the full VIP treatment?
+8=How do you protect yourself when it's raining bullets?
+
+[OWA]
+1=This question can only be answered from an unusual perspective. Can you get yourself there?
+10=I wonder how you can land an appointment with this milliner? Perhaps it would be best to book?
+11=Do you have Strange thoughts? Maybe you should seek help?
+12=I am an actor who can transform a film with the final cut. Who am I?
+13=Six legs went in and only two came out. Where am I?
+14=Who's in control here? The puppet or the puppeteer?
+15=Acing the chemistry test will illuminate you.
+2=DA campaign special: Get two votes, for the price of one.
+3=BANG! BANG! Order in the court.
+4=Who's crazy enough to date this guy?
+5=It's far from PURRFECT, but she calls it home.
+6=You've been warned. People aren't the only unstable part of this city.
+7=If you find the name, does the Cash come hand in hand?
+8=This den is where the vicious animals take your treasure. Is it theft, if it's already stolen?
+9=Has this flower turned over a new leaf?
+999=I'm an instrument whose music always comes from the heart. What am I?
+
+[OWB]
+1=This question can only be answered from an unusual perspective. Can you get yourself there?
+10=This place has taken a TURN for the worse. Is it a little BEAR for your tastes?
+2=Look out! Can you see where the madness began?
+3=If she is the ROOT of evil, how could anyone be expected to CONTAIN her?
+4=Which acrobat family gambled with their lives, and has now been left to fly solo?
+6=Would an invitation to party like the gods be a bolt out of the blue?
+7=Park in his spot and you may just get a ticket.
+8=Always a shining example of justice? Not if you ask me.
+9=If you're afraid, don't be scared to crow about it.
+
+[OWC]
+1=This question can only be answered from an unusual perspective. Can you get yourself there?
+2=Which notorious family keeps talking trash?
+3=Breaking news! Get out while you still can.
+4=Air, sea or land. It would be criminal not to use these wise guys, wouldn't it?
+5=Was this parasite ratted out, or does he continue to plague Gotham?
+6=Does Zsasz still pose a threat? This guy called to find out.
+7=Did you hear the HOLE story of how Black Mask escaped?
+8=If you're planning on making your mark in Arkham City, you'll need a special kind of realtor.
+9=Can you find this cool couple before the romance thaws?
+
+[OWD]
+1=This question can only be answered from an unusual perspective. Can you get yourself there?
+2=BOARD at drive-time? I'm not going to broadcast any more clues!
+3=Coming back from the dead is cheating on any day of the week.
+4=It's vacation time. Where shall I go? Somewhere venomous?
+5=This Killer was collared, but is he now on the loose?
+
+[OWE]
+1=This question can only be answered from an unusual perspective. Can you get yourself there?
+10=You don't want to be caught off-guard in this place, do you?
+11=You don't have to be crazy to shop here, do you?
+2=My intellect towers above yours, Batman. I wonder if you'll ever solve this riddle?
+3=The feuding families always sit down to a good meal. Will there be a massacre?
+4=Cowboy, trilby or bowler? Hats off to anyone brave enough to try one on.
+5=Do you need to look SHARP to campaign for change?
+6=Was the writing on the wall from the moment you entered?
+7=Arkham City is not the place to be rich or famous. Bruce Wayne has never felt quite so wanted.
+8=You're a dummy if you don't try and buy one.
+9=Studies have shown that if you're not on your best behavior, you'll come out crazy. How Strange?
+
+[Steel]
+1=This question can only be answered from an unusual perspective. Can you get yourself there?
+2=They say the more things change the more they stay the same. Which dummy said that?
+3=Once assembled, do these two become one again?
+4=Surely someone was clowning around when they qualified this person?
+5=Do you really need to hammer it home? Everyone knows Harley is stupid.
+6=Who can BOYLE and Freeze at the same time?
+7=What's a funnyman without his box of tricks?
+
+[Underworld]
+1=This question can only be answered from an unusual perspective. Can you get yourself there?
+2=Crime is a global issue. You'll never stop it, Batman.
+3=Read all about it! Is this a sign of the Times?
+4=Wanted: Dead... and alive?
+5=Do these demonic twins pose a threat?
+6=Where can you get a wonderful view of the past?

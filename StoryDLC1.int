@@ -1,0 +1,32 @@
+﻿
+[Huds]
+DaysEarlier=TWO DAYS EARLIER...
+EvidenceCopBlood=GCPD Officer: Tony Wicker
+EvidenceWalkTalk=GCPD Police Radio
+HarleyRevengeTitle=&HARLEY QUINN'S REVENGE
+MapShipyard=Shipyard
+OWCopCrimeScene=GCPD Cops Last Known Position
+OWShipyardResBoxPw=HIDEAWAY
+
+[Sequencer_Bomb]
+01=DEADBAT
+02=MURDERER
+03=JOKERFOREVER
+
+[Sequencer_OW]
+01=HIDEAWAY
+
+[Title1]
+CVHarleyNew=Mourning Harley
+CVHarleyThugs=Harley's Thugs
+CVHarleyTitan=Harley's Titan Thug
+Continue=Resume mission from last checkpoint.
+New=Start a new mission set after the events of Arkham City (Contains spoilers from Main Story)
+Title=HARLEY QUINN'S REVENGE
+
+[Tracking]
+PDLCBombs=Detonation Frequency Tracker
+
+[UI]
+NeedTitleUpdate=UPDATE REQUIRED
+NeedTitleUpdateInfo=Please install the latest Title Updates before playing this additional Story.
