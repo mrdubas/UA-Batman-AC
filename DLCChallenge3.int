@@ -1,11 +1,11 @@
 ﻿
 [Challenge]
 01=
-C53_Description=Earn the highest score you can.
-C53_Title=Freight Train
-C54_Description=Clear the room as quickly as possible.
-C54_Title=Black Mask
-C72_Description=Use 6 modifiers across 2 levels and acquire every medal.
-C72_Title=Black Mask Campaign
-Destroy=Destroy the control box!
-GO=GO!
+C53_Description=Отримайте максимальну кількість балів.
+C53_Title=Вантажний потяг
+C54_Description=Звільніть приміщення якомога швидше.
+C54_Title=Чорна Маска
+C72_Description=Використайте 6 модифікаторів на 2 рівнях і отримайте кожну медаль.
+C72_Title=Кампанія Чорної Маски
+Destroy=Знищи блок управління!
+GO=ВПЕРЕД!
