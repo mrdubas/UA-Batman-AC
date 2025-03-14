@@ -1,39 +1,39 @@
 ﻿
 [CrimeScene]
-AssassinBandages=Blood Covered Bandages
-AssassinTrophy=Assassin's Blood
-BulletHole=Ballistic Trajectory
-Hobo1Sniperpoint=Gunshot Origin
-Hobo2Sniperpoint=Gunshot Origin
-Hobo3RicochetPoint=Ballistic Ricochet
-Hobo3Sniperpoint=Gunshot Origin
-SniperRifle=Sniper Rifle Radio Transmitter
-Victim1=Murder Victim
-Victim2=Identity Theft Victim 2
-Victim3=Identity Theft Victim 3
-fake1fakestash=Possible Deadshot Location
-fake2fakestash=Possible Deadshot Location
-hobo1deadbody=Ballistic Trajectory
-hobo1snipertrail=Gunshot Origin
-hobo2deadbody=Ballistic Trajectory
-hobo2snipertrail=Gunshot Origin
-hobo3deadbody=Ballistic Trajectory
-hobo3snipertrail=Gunshot Origin
-realstash=Possible Deadshot location
+AssassinBandages=Закривавлені бинти
+AssassinTrophy=Кров убивці
+BulletHole=Балістична траєкторія
+Hobo1Sniperpoint=Походження пострілу
+Hobo2Sniperpoint=Походження пострілу
+Hobo3RicochetPoint=Балістичний рікошет
+Hobo3Sniperpoint=Походження пострілу
+SniperRifle=Радіопередавач від снайперської гвинтівки
+Victim1=Жертва вбивства
+Victim2=Жертва крадіжки особистості 2
+Victim3=Жертва крадіжки особистості 3
+fake1fakestash=Можливе місцезнаходження Дедшоту
+fake2fakestash=Можливе місцезнаходження Дедшоту
+hobo1deadbody=Балістична траєкторія
+hobo1snipertrail=Походження пострілу
+hobo2deadbody=Балістична траєкторія
+hobo2snipertrail=Походження пострілу
+hobo3deadbody=Балістична траєкторія
+hobo3snipertrail=Походження пострілу
+realstash=Можливе місцезнаходження Дедшоту
 
 [DroneScanning]
-AreaAlreadyScanned=This area has already been scanned
-DroneScanningTitle=Flight path scan
-NeedToGetHigher=Scan occluded - higher elevation required
+AreaAlreadyScanned=Цю ділянку вже відскановано
+DroneScanningTitle=Сканування траєкторії польоту
+NeedToGetHigher=Сканування недоступне – потрібна вища позиція.
 
 [Trails]
-AssassinBandages=Assassin's Bloody Bandages
-AssassinBlood=Forensic Trail: Assassin's Blood
-BuggedNinja=Tracker Signature
-Bullethole=Projectile Trajectory Tracking
-JammedDetectiveMode=Signal Jammed
-JammerTowers=Tracing Jamming Source
-MrFreeze=Mister Freeze
-SniperSignal=Radio Transmission Source
-Victim1Blood=Forensic Trail: Murder Victim's Blood
-Victim3GFootPrint=Forensic Trail: Bleach
+AssassinBandages=Закривавлені бинти вбивці
+AssassinBlood=Криміналістичний слід: Кров убивці
+BuggedNinja=Сигнатура трекера
+Bullethole=Відстеження траєкторії кулі
+JammedDetectiveMode=Сигнал заглушено
+JammerTowers=Відстеження джерела перешкод
+MrFreeze=Містер Фріз
+SniperSignal=Джерело радіосигналу
+Victim1Blood=Криміналістичний слід: кров вбитої жертви
+Victim3GFootPrint=Криміналістичний слід: відбілювач
