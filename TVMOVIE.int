@@ -1,31 +1,31 @@
 ﻿
 [CH2_JK_belfry]
-01=Well, look who it is.
-02=I haven't seen you for, how long has it been? Let's see, there was an asylum, some monsters, and oh, that's right, you left me to die.
-03=Now you probably don't remember it that way, but who cares?
-04=You just need to worry about the bombs.
-05=Hurry up now. Clock's ticking.
+01=Ну, подивись, хто це.
+02=Я не бачив тебе так давно. Скільки ж часу минуло? Давай згадаємо: був притулок для психічно хворих, декілька монстрів, і, точно, ти залишив мене помирати.
+03=Тепер, напевно, ти пам'ятаєш це інакше, але чи це має значення?
+04=Тобі залишилося хвилюватися лише про бомби.
+05=Поспішай, годинник тикає.
 
 [CH2_ScannedGUN]
-01=That's cheating! You know, I can't imagine an afterlife without you, my dear, soon-to-be-dead pal.
-02=Time to die. I'll see you soon! BYEEEE!
+01=Це шахрайство! Знаєш, я не можу уявити потойбіччя без тебе, мій дорогенький, майбутньо-мертвий-друже.
+02=Час помирати. Скоро побачимося! БУВАААЙ!
 
 [CH3_MUSEUM_INTRO]
-01=Welcome to the Cyrus Pinkney Natural History Institute.
-02=All visitors must be searched as part of our ongoing commitment to keep you safe and protect the unique collection we have on display.
-03=All visitors should be sure to check out our latest attraction, "Dangers from the Deep," in the Aquatic Observation Chamber.
-04=All visitors with a valid ticket or concession card can enjoy a discount at the nearby, world-famous Iceberg Lounge.
+01=Ласкаво просимо до Інституту природничої історії Сайруса Пінкні.
+02=Всі відвідувачі повинні пройти обшук для забезпечення вашої безпеки і для захисту унікальної колекції, яку ми виставляємо.
+03=Усім відвідувачам варто обов'язково відвідати наш новий атракціон "Небезпеки з глибини" в Камері водних спостережень.
+04=Всі відвідувачі з дійсним квитком або картою пільг можуть скористатися знижкою у розташованому поруч всесвітньо відомому лаунж-барі Iceberg Lounge.
 
 [CH6_SM_C4_Joker_well]
-01=Good evening, troops. This is General J with a quick update on what's going on down here in Arkham City.
-02=As you can see, I'm looking much better. In fact... I think I'm looking better than ever.
-03=I can hear you all now: "How did this happen?" "Can I get me some of that crazy cure?" "I want answers, damn it! Now!"
-04=Well, here's the thing. Answers don't give you everlasting satisfaction. Sometimes you need to brace yourself for disappointment. Think about it. Imagine your favorite TV show. You've been through it all. The ups, the downs, the crazy coincidences, and then: Bang! They tell you what it's all about.
-05=Would you be happy? Does it make sense? How come it all ended in a church?
-06=You guys just need to know one simple thing. I'm back. Back for good.
-07=Now arm yourselves, boys. We've got a prison break to plan. No hostages. No surrender. Oh, I know. It sounds like suicide, but listen.
-08=Whatever happens.
-09=I'll be right behind you.
+01=Добрий вечір, солдати. Це генерал Джей з коротким оновленням того, що відбувається тут, в Аркхем-Сіті.
+02=Як ви бачите, я виглядаю набагато краще. Насправді... здається, я виглядаю краще, ніж будь-коли.
+03=Впевнений, ви питаєте себя: "Як так сталося?" "Можна мені трохи цих божевільних ліків?" "Мені потрібні відповіді, чорт забирай! Зараз же!"
+04=Отже, ось що я вам скажу: відповіді не дарують нескінченного задоволення. Іноді треба бути готовим до розчарування. Подумайте: уявіть свій улюблений серіал. Ви пройшли через усі злети, падіння, шалені збіги, а потім – Бах! – вам пояснюють сенс усього цього.
+05=Чи зробило б це вас щасливими? Чи має це сенс? Чому усе закінчилося в церкві?
+06=Вам варто знати одну просту річ: я повернувся. Назавжди.
+07=А тепер, озброїтеся, хлопці. Нам потрібно спланувати втечу з в'язниці. Ніяких заручників. Ніякої капітуляції. О, я знаю, це звучить як самогубство, але послухайте.
+08=Що б не сталося.
+09=Я завжди буду поруч з вами.
 
 [CH7_INTRO_TV]
 01=You are mine, new inmates. Let me introduce myself. I am Professor Hugo Strange and I am in charge of the Arkham City Facility.
