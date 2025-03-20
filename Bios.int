@@ -82,7 +82,7 @@ ATTRIB_03=Обличчя схоже на чорний череп
 ATTRIB_04=Страшний і впливовий бос мафії
 ATTRIB_05=Вправний стрілець, відомий своїми подвійними пістолетами
 INFO_01_NAME=ЧОРНА МАСКА
-STORY=Following the suspicious death of his wealthy parents in a fire, Roman Sionis inherited their fortune and went on to bankrupt their company. Saved with a buyout by Bruce Wayne, Sionis came to resent and hate his rescuer.\n\nFixated on the concept of masks, Sionis carved one from his father's black coffin and sought revenge on Wayne; his ensuing battle with the Dark Knight caused his mask to be burnt into his skin, remaking him as the Black Mask.\n\nSionis is now a feared gang leader and one of the most powerful mob bosses in Gotham, with a burning hatred of the Batman.
+STORY=Після підозрілої загибелі своїх багатих батьків у пожежі, Роман Сіоніс успадкував їхні статки та згодом банкрутував їхню компанію. Врятований викупом Брюса Вейна, Сіоніс почав ненавидіти свого рятівника.\n\nЗахоплений ідеєю масок, Сіоніс вирізав одну з чорної труни свого батька і прагнув помститися Вейну; його подальша битва з Темним Лицарем призвела до того, що його маска прикипіла до його шкіри, перетворивши його на Чорну Маску.\n\nСіоніс тепер є грізним ватажком банди і одним з наймогутніших босів мафії в Готемі, з палаючою ненавистю до Бетмена.
 
 [Bruce_Wayne]
 02_REALNAME=Брюс Вейн
@@ -93,13 +93,13 @@ STORY=Following the suspicious death of his wealthy parents in a fire, Roman Sio
 07_HEIGHT=188 см
 08_WEIGHT=95 кг
 09_FIRST=Детективний комікс #27 \n (Травень 1939)
-ATTRIB_01=Billionaire playboy by day, Batman by night
-ATTRIB_02=Gotham's most eligible bachelor
+ATTRIB_01=Мільярдер-плейбой вдень, Бетмен вночі
+ATTRIB_02=Найзатребуваніший холостяк Ґотема
 ATTRIB_03=
 ATTRIB_04=
 ATTRIB_05=
 INFO_01_NAME=БРЮС ВЕЙН
-STORY=Born into the wealthy Wayne family, Bruce Wayne had an idyllic childhood. But after witnessing his parents' violent murder in Crime Alley, Bruce dedicated his life to battling criminals.\n\nHe circled the globe for years, training his mental and physical abilities to their peak. Gotham City welcomed him home, not knowing that high society's favorite billionaire playboy is also the Batman.\n\nBruce has never been into politics but Batman alone has not been able to stop Arkham City's construction and so he has had no choice but to use his alter ego and invest millions to bring enough political pressure to bear to force its closure. He knows it is a ticking time bomb waiting to explode onto the streets of Gotham.
+STORY=Народившись у заможній родині Вейнів, Брюс Вейн мав ідилічне дитинство. Але після того, як він став свідком жорстокого вбивства своїх батьків на Алеї Злочинів, Брюс присвятив своє життя боротьбі зі злочинцями.\n\nВін роками подорожував світом, тренуючи свої розумові та фізичні здібності до їхнього піку. Готем-Сіті вітав його вдома, не знаючи, що улюблений мільярдер-плейбой з вищого суспільства є Бетменом.\n\nБрюс ніколи не займався політикою, але Бетмен самотужки не зміг зупинити будівництво Аркхем-Сіті, тож йому не залишилося нічого іншого, як скористатися своїм альтер-его і вкласти мільйони, щоб чинити достатній політичний тиск, щоб закрити його. Він знає, що це бомба уповільненої дії, яка ось-ось вибухне на вулицях Ґотема.
 
 [Calendar_Man]
 02_REALNAME=Джуліан Дей
@@ -110,13 +110,13 @@ STORY=Born into the wealthy Wayne family, Bruce Wayne had an idyllic childhood. 
 07_HEIGHT=174 см
 08_WEIGHT=88 кг
 09_FIRST=Детективний комікс #259 \n (Вересень 1958)
-ATTRIB_01=Obsessed with quirks of the calendar
+ATTRIB_01=Одержимий примхами календаря
 ATTRIB_02=
 ATTRIB_03=
 ATTRIB_04=
 ATTRIB_05=
 INFO_01_NAME=КАЛЕНДАРНИК
-STORY=Fixated on the calendar, Julian Day became Calendar Man, a villain who timed and tied his crimes thematically to certain holidays throughout the year, often leaving clues by which he could be caught.\n\nGotham City's hopes for a day off are often clouded by the knowledge that any holiday of note is likely to be shadowed by Calendar Man's presence.
+STORY=Зациклений на календарі, Джуліан Дей став Календарником – лиходієм, який приурочував свої злочини до певних свят протягом року, часто залишаючи підказки, за якими його можна спіймати.\n\nНадії мешканців Ґотема на вихідний день часто затьмарюються усвідомленням того, що будь-яке визначне свято, швидше за все, буде зіпсоване присутністю Календарника.
 
 [Catwoman]
 02_REALNAME=Селіна Кайл
