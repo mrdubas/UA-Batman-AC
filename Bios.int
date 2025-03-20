@@ -34,54 +34,54 @@ INFO_01_NAME=АЗРАЕЛЬ
 STORY=Багато років тому Майкл Лейн брав участь у програмі зі створення досконалого борця зі злочинністю. Натомість вона перетворила його на божевільного злочинця.\n\nЗупинений Бетменом, Майкл зізнався у своїх гріхах священику з таємного релігійного Ордену Чистоти. Вони завербували Майкла для боротьби зі злом як свого хрестоносця Азраеля, який носить містичний Костюм Скорботи і володіє Мечем Гріха.\n\nЯкщо Майкл не збереже свою душу чистою, Костюм Скорботи знищить його.
 
 [Bane]
-02_REALNAME=Unknown
-03_OCCUPATION=Professional Criminal
+02_REALNAME=Невідоме
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Коричневі (під Веномом: Зелені)
 06_HAIR=Коричневе
 07_HEIGHT=168 см (під Веномом: 280 см)
 08_WEIGHT=63 кг (під Веномом: 160 кг)
-09_FIRST=Batman: Vengeance of Bane #1 \n (January 1993)
-ATTRIB_01=Master strategist
-ATTRIB_02=Intense focus
-ATTRIB_03=Abnormally strong reaction to the super-steroid Venom
-ATTRIB_04=Determined to best all who challenge him
+09_FIRST=Бетмен: Помста Бейна #1 \n (Січень 1993)
+ATTRIB_01=Майстер-стратег
+ATTRIB_02=Інтенсивна увага
+ATTRIB_03=Аномально сильна реакція на суперстероїд Веном
+ATTRIB_04=Сповнений рішучості перевершити всіх, хто кидає йому виклик
 ATTRIB_05=
-INFO_01_NAME=BANE
-STORY=Imprisoned from birth to serve his dead father's sentence, Bane was raised inside the horrific environs of a Santa Priscan prison. Subjected to military experiments with the experimental ultra-steroid Venom, his superhuman strength and iron-forged will helped him to escape. Determined to build a criminal empire, he sought out Batman and broke the Dark Knight's spine.\n\nBut Batman recovered and managed to best Bane, cutting off Bane's precious Venom supply.\n\nSince the events at Arkham Asylum, it's rumored that Bane has turned over a new leaf in an effort to save others from similar addiction.
+INFO_01_NAME=БЕЙН
+STORY=Ув'язнений від народження, щоб відбувати покарання за злочин свого покійного батька, Бейн виріс у жахливих умовах в'язниці Санта Пріскан. Підданий військовим експериментам з експериментальним ультрастероїдом Веном, його надлюдська сила та незламна воля допомогли йому втекти. Рішуче налаштований побудувати кримінальну імперію, він розшукав Бетмена і зламав Темному Лицареві хребет.\n\nПроте Бетмен відновився і зміг перемогти Бейна, перерізавши його дорогоцінне джерело Веному.\n\nПісля подій в Аркхемській лікарні, ходять чутки, що Бейн змінив свій шлях, намагаючись врятувати інших від подібної залежності.
 
 [Batman]
-02_REALNAME=Bruce Wayne
-03_OCCUPATION=World's Greatest Detective
+02_REALNAME=Брюс Вейн
+03_OCCUPATION=Найкращий детектив у світі
 04_BASE=Ґотем-Сіті
 05_EYES=Блакитні
 06_HAIR=Чорне
 07_HEIGHT=188 см
 08_WEIGHT=95 кг
-09_FIRST=Detective Comics #27 \n (May 1939)
-ATTRIB_01=Trained to physical and mental peak
-ATTRIB_02=Arsenal of gadgets, vehicles, and advanced technology
-ATTRIB_03=Inventor, detective, genius-level intelligence
-ATTRIB_04=Expert in most known forms of martial arts
-ATTRIB_05=Trained in all aspects of criminology
-INFO_01_NAME=BATMAN
-STORY=When his parents were gunned down in front of him, young Bruce Wayne resolved to rid Gotham City of the criminal element that took their lives.\n\nHe trained extensively to achieve mental and physical perfection, in addition to mastering martial arts, detective techniques, and criminal psychology.\n\nDressing as a bat to prey on criminals' fears, Batman fights crimes with the aid of specialized gadgets and vehicles, operating out of his secret Batcave below Wayne Manor.
+09_FIRST=Детективний комікс #27 \n (Травень 1939)
+ATTRIB_01=Треновані до фізичного та розумового піку
+ATTRIB_02=Арсенал гаджетів, транспортних засобів та передових технологій
+ATTRIB_03=Винахідник, детектив, геніальний інтелект
+ATTRIB_04=Експерт з більшості відомих видів бойових мистецтв
+ATTRIB_05=Підготовлений з усіх аспектів кримінології
+INFO_01_NAME=БЕТМЕН
+STORY=Коли його батьків застрелили прямо на його очах, молодий Брюс Вейн вирішив очистити Ґотем-Сіті від кримінального елементу, який забрав їм життя.\n\nВін багато тренувався, щоб досягти розумової та фізичної досконалості, а також опанував бойові мистецтва, детективні техніки та кримінальну психологію.\n\nПеревдягаючись у кажана, щоб лякати злочинців, Бетмен бореться зі злочинністю за допомогою спеціалізованих ґаджетів та транспортних засобів, діючи зі своєї секретної Бетпечери під маєтком Вейнів.
 
 [Black_Mask]
-02_REALNAME=Roman Sionis
-03_OCCUPATION=Professional Criminal
+02_REALNAME=Роман Сіоніс
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Коричневі
 06_HAIR=Коричневе
 07_HEIGHT=185 см
 08_WEIGHT=88 кг
-09_FIRST=Batman #386 \n (August 1985)
-ATTRIB_01=Obsessed with masks
-ATTRIB_02=Harbors a hatred of Batman and Bruce Wayne
-ATTRIB_03=Face resembles a black skull
-ATTRIB_04=Feared and powerful mob boss
-ATTRIB_05=Skilled marksman, known for his double handguns
-INFO_01_NAME=BLACK MASK
+09_FIRST=Бетмен #386 \n (Серпень 1985)
+ATTRIB_01=Одержимий масками
+ATTRIB_02=Ненавидить Бетмена та Брюса Вейна
+ATTRIB_03=Обличчя схоже на чорний череп
+ATTRIB_04=Страшний і впливовий бос мафії
+ATTRIB_05=Вправний стрілець, відомий своїми подвійними пістолетами
+INFO_01_NAME=ЧОРНА МАСКА
 STORY=Following the suspicious death of his wealthy parents in a fire, Roman Sionis inherited their fortune and went on to bankrupt their company. Saved with a buyout by Bruce Wayne, Sionis came to resent and hate his rescuer.\n\nFixated on the concept of masks, Sionis carved one from his father's black coffin and sought revenge on Wayne; his ensuing battle with the Dark Knight caused his mask to be burnt into his skin, remaking him as the Black Mask.\n\nSionis is now a feared gang leader and one of the most powerful mob bosses in Gotham, with a burning hatred of the Batman.
 
 [Bruce_Wayne]
@@ -103,7 +103,7 @@ STORY=Born into the wealthy Wayne family, Bruce Wayne had an idyllic childhood. 
 
 [Calendar_Man]
 02_REALNAME=Julian Day
-03_OCCUPATION=Professional Criminal
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Блакитні
 06_HAIR=Немає (раніше Коричневе)
@@ -137,7 +137,7 @@ STORY=An orphan who learned to survive on the mean streets of Gotham, Selina Kyl
 
 [Clayface]
 02_REALNAME=Basil Karlo
-03_OCCUPATION=Professional Criminal
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Чорні
 06_HAIR=Немає
@@ -171,7 +171,7 @@ STORY=Floyd Lawton is the deadliest gun-for-hire in the world.\n\nHe never misse
 
 [Dr_Freeze]
 02_REALNAME=Dr. Victor Fries
-03_OCCUPATION=Professional Criminal
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Блакитні
 06_HAIR=Немає
@@ -205,7 +205,7 @@ STORY=Police Commissioner James W. Gordon dedicated his career to cleaning up th
 
 [Harley_Quinn]
 02_REALNAME=Dr. Harleen F. Quinzel
-03_OCCUPATION=Professional Criminal
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Блакитні
 06_HAIR=Біляве
@@ -272,8 +272,8 @@ INFO_01_NAME=JACK RYDER
 STORY=Jack Ryder is an investigative reporter turned controversial talk show host, well-known for his aggressive manner and his relentless determination to get to the truth.\n\nWith the opening of the controversial Arkham City at hand, Ryder hopes to discover the roots of this dangerous stronghold and expose them for the good of Gotham.
 
 [Joker]
-02_REALNAME=Unknown
-03_OCCUPATION=Professional Criminal
+02_REALNAME=Невідоме
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Зелені
 06_HAIR=Зелене
@@ -282,7 +282,7 @@ STORY=Jack Ryder is an investigative reporter turned controversial talk show hos
 09_FIRST=Batman #1 \n (Spring 1940)
 ATTRIB_01=Unrepentant homicidal maniac
 ATTRIB_02=Surprisingly strong hand-to-hand combatant
-ATTRIB_03=Unknown past
+ATTRIB_03=Невідоме минуле
 ATTRIB_04=Employs various deadly weapons, often based on party-gag items
 ATTRIB_05=Uses a fatal toxin that stretches victim's faces into Joker-like grin
 INFO_01_NAME=THE JOKER
@@ -307,7 +307,7 @@ STORY=Born with a rare mutation that made his skin green and scaly and grew his 
 
 [Mad_Hatter]
 02_REALNAME=Jervis Tetch
-03_OCCUPATION=Professional Criminal
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Блакитні
 06_HAIR=Червоне
@@ -375,7 +375,7 @@ STORY=The Penguin is an eccentric criminal mastermind known for his shady busine
 
 [Poison_Ivy]
 02_REALNAME=Pamela Lillian Isley
-03_OCCUPATION=Professional Criminal
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Зелені
 06_HAIR=Червоне
@@ -398,7 +398,7 @@ STORY=Botanist Pamela Isley was transformed by a science experiment gone wrong i
 06_HAIR=Сіре
 07_HEIGHT=173 см
 08_WEIGHT=86 кг
-09_FIRST=Batman: Arkham Asylum \n (August 2009)
+09_FIRST=Batman: Arkham Asylum \n (Серпень 2009)
 ATTRIB_01=Intense dedication to "clean up" Gotham
 ATTRIB_02=Pompous and old-fashioned in demeanor
 ATTRIB_03=Focused on his own political aspirations
@@ -408,7 +408,7 @@ INFO_01_NAME=QUINCY SHARP
 STORY=Quincy Sharp was the warden of Arkham Asylum on the night that the Joker broke free, 18 months ago. Unknown to most, but discovered by Batman, Sharp suffered from a split personality disorder and had been committing atrocities in the asylum, believing himself to be possessed by the Spirit of Amadeus Arkham.\n\nIn reality, he was being influenced by Hugo Strange, who had provided Sharp with powerful mind control drugs that allowed him to manipulate Sharp's behaviour, enabling him to plant the seed that led to the creation of Arkham City.\n\nHugo Strange used the evidence of the atrocities committed by Sharp as collateral to make sure that, whatever happened, Sharp must remain loyal to him.
 
 [Ras_Ghul]
-02_REALNAME=Unknown
+02_REALNAME=Невідоме
 03_OCCUPATION=International Terrorist
 04_BASE=Mobile
 05_EYES=Зелені
@@ -426,7 +426,7 @@ STORY=Little is known about the early years of the nearly immortal Rā's al Ghū
 
 [Riddler]
 02_REALNAME=Eddie Nashton a.k.a. Edward Nigma
-03_OCCUPATION=Professional Criminal
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Блакитні
 06_HAIR=Коричневе
@@ -447,7 +447,7 @@ STORY=With an obsessive-compulsive need for attention, Edward Nigma is determine
 06_HAIR=Чорне
 07_HEIGHT=178 см
 08_WEIGHT=77 кг
-09_FIRST=Batman #436 \n (August 1989)
+09_FIRST=Бетмен #436 \n (Серпень 1989)
 ATTRIB_01=Keen detective skills
 ATTRIB_02=Trained to fight crime by Batman
 ATTRIB_03=Arsenal of gadgets and advanced technology
@@ -492,13 +492,13 @@ STORY=The headstrong daughter of Rā's al Ghūl and on-again/off-again lover of 
 
 [Two_Face]
 02_REALNAME=Harvey Dent
-03_OCCUPATION=Professional Criminal
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Блакитні
 06_HAIR=Коричневе/Зелене
 07_HEIGHT=183 см
 08_WEIGHT=83 кг
-09_FIRST=Detective Comics #66 \n (August 1942)
+09_FIRST=Detective Comics #66 \n (Серпень 1942)
 ATTRIB_01=Hideously scarred on half of his face
 ATTRIB_02=Extremely skilled with his twin .45 semi-automatics
 ATTRIB_03=Psychotic obsession with duality and the number two
@@ -526,7 +526,7 @@ STORY=Investigative reporter Vicki Vale got her start at the Gotham City Gazette
 
 [Zsasz]
 02_REALNAME=Victor Zsasz
-03_OCCUPATION=Professional Criminal
+03_OCCUPATION=Професійний злочинець
 04_BASE=Ґотем-Сіті
 05_EYES=Блакитні
 06_HAIR=Немає (раніше Біляве)
