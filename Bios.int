@@ -167,7 +167,7 @@ ATTRIB_03=
 ATTRIB_04=
 ATTRIB_05=
 INFO_01_NAME=ДЕДШОТ
-STORY=Floyd Lawton is the deadliest gun-for-hire in the world.\n\nHe never misses a shot, especially with his pair of silenced, wrist-mounted 9mm cannons. Дедшот disdains himself almost as much as his corrupt targets; several prison psychologists have diagnosed him with “suicidal tendencies.”\n\nBatman is the only person who has made Дедшот miss... a distinction that puts the Dark Knight at the top of Дедшот's hit list.
+STORY=Флойд Лотон – найсмертоносніший найманий стрілець у світі.\n\nВін ніколи не промахується, особливо зі своїх безшумних наручних 9-мм гармат. Дедшот зневажає себе майже так само, як і свої корумповані цілі; кілька тюремних психологів діагностували у нього "суїцидальні нахили".\n\nБетмен єдина людина, яка змусила Дедшота промахнутися... ця відмінність ставить Темного Лицаря на перше місце в списку мішеней Дедшота.
 
 [Dr_Freeze]
 02_REALNAME=Доктор Віктор Фріз
@@ -184,10 +184,10 @@ ATTRIB_03=Незворотно змінений для виживання тіл
 ATTRIB_04=Носить захисну броню, що випромінює холод
 ATTRIB_05=Вмотивований горем через долю своєї дружини Нори
 INFO_01_NAME=МІСТЕР ФРІЗ
-STORY=Victor Fries was a brilliant cryogenicist whose beloved wife Nora was stricken with a fatal degenerative disease.\n\nHe placed her in suspended animation while obsessively searching for a way to cure her; but the corporation that funded his research pulled the plug, triggering an accident that transformed Fries's body into a cold-blooded form that must always be kept below zero. At normal room temperature he will die.\n\nWielding a number of freezing weapons, he wears protective armor in his quest to somehow bring back his lovely wife and avenge her fate. Since the opening of Arkham City, Mr. Freeze has seemingly disappeared.
+STORY=Віктор Фріз був генієм кріогеніки, чия кохана дружина Нора була вражена смертельною дегенеративною хворобою.\n\nВін помістив її в стан анабіозу, одержимо шукаючи спосіб вилікувати її; але корпорація, яка фінансувала його дослідження, висмикнула вилку з розетки, спровокувавши нещасний випадок, який перетворив тіло Фріза на холоднокровну форму, яку завжди потрібно тримати нижче нуля. При звичайній кімнатній температурі він помре.\n\nОзброєний низкою заморожувальної зброї, він носить захисний екзоскелет і не полишає спроб повернути свою кохану дружину і помститися за її долю. З моменту відкриття Аркхем-Сіті містер Фріз, здається, безслідно зник.
 
 [Gordon]
-02_REALNAME=Джеймс У. Гордон
+02_REALNAME=Джеймс В. Ґордон
 03_OCCUPATION=Комісар поліції
 04_BASE=Ґотем-Сіті
 05_EYES=Блакитні
@@ -200,8 +200,8 @@ ATTRIB_02=Підготовлений криміналіст
 ATTRIB_03=Володіє прийомами рукопашного бою
 ATTRIB_04=Професійний стрілець
 ATTRIB_05=
-INFO_01_NAME=COMMISSIONER GORDON
-STORY=Police Commissioner Джеймс У. Гордон dedicated his career to cleaning up the corruption in the Gotham City Police Department, a goal he has come a long way towards accomplishing.\n\nHe has been equally tough on crime, and in the pursuit of making Gotham City safe for all its citizens, Gordon has forged an uneasy alliance with Gotham's other top crime fighter, the mysterious vigilante known as Batman.\n\nIn the wake of Mayor Sharp's establishment of Arkham City and TYGER guards assuming most law-enforcement roles, Gordon has been increasingly marginalized—but he remains an ally to the Batman.
+INFO_01_NAME=КОМІСАР ҐОРДОН
+STORY=Комісар поліції Джеймс У. Ґордон присвятив свою кар'єру викоріненню корупції в департаменті поліції Ґотема, і до цієї мети він пройшов довгий шлях.\n\nВін безкомпромісно бореться зі злочинністю, прагнучи зробити Ґотем безпечним для всіх його мешканців. У цій боротьбі Ґордон уклав непростий союз з іншим головним борцем зі злочинністю Ґотема - таємничим месником, відомим під псевдонімом Бетмен.\n\nПісля того, як мер Шарп створив Аркхем-Сіті, а охоронці TYGER взяли на себе більшість правоохоронних функцій, вплив Ґордона значно зменшився, однак він, як і раніше, залишається вірним союзником Бетмена.
 
 [Harley_Quinn]
 02_REALNAME=Доктор Харлін Ф. Квінзель
@@ -218,7 +218,7 @@ ATTRIB_03=Повна зневага до людського життя
 ATTRIB_04=
 ATTRIB_05=
 INFO_01_NAME=ГАРЛІ КВІНН
-STORY=An Arkham Asylum psychiatrist assigned to treat the Joker, Dr. Harleen Quinzel instead became obsessively fixated on her patient, believing herself to be in love with him.\n\nShe helped him escape and took on her own criminal identity as Harley Quinn. Quinn is a violent and unpredictable felon whose only motivation is achieving the Joker's approval.\n\nBecause of his cruel and mercurial nature, this in some ways makes her just another of his victims—albeit a very dangerous one.\n\nSince the Joker's Titan overdose in Arkham Asylum, Harley's mind has further deteriorated. She is blindly determined to put a smile back on his face.
+STORY=Психіатр лікарні Аркхема, призначена для лікування Джокера, доктор Гарлін Квінзель натомість нав'язливо зациклилася на своєму пацієнті, вважаючи, що закохана в нього.\n\nВона допомогла йому втекти і взяла собі злочинне ім'я Гарлі Квінн. Квінн — жорстока й непередбачувана злочинниця, єдиним рушієм якої є прагнення заслужити схвалення Джокера.\n\nЧерез його жорстокий і мінливий характер вона, у певному сенсі, стала ще однією з його жертв - хоча і дуже небезпечною.\n\nПісля передозування Джокера Титаном в Аркхемській лікарні психічний стан Гарлі ще більше погіршився. Тепер вона сліпо прагне знову побачити посмішку на його обличчі.
 
 [Hugo_Strange]
 02_REALNAME=Хьюго Стрендж
@@ -235,7 +235,7 @@ ATTRIB_03=Глибокі знання про психоактивні речов
 ATTRIB_04=Одержимий Бетменом і таємницею його особи
 ATTRIB_05=Страждає від нападів шизофренії
 INFO_01_NAME=ПРОФЕСОР ХЬЮГО СТРЕНДЖ
-STORY=Infamous psychiatrist Hugo Strange claims to have unique insight on the criminal mind from years of clinical study. He persuaded Mayor Sharp that the Arkham City project was the only way for Gotham City to eliminate crime and “rogue vigilantes” like Batman.\n\nRumors persist of Strange performing ethically dubious experiments on inmates without consent, but unless hard proof comes to light, the Gotham public is happy to credit Strange with their dramatically reduced crime rate. Strange knows that Batman will hunt him down. He's counting on it.
+STORY=Скандально відомий психіатр Х'юго Стрендж стверджує, що має унікальне розуміння злочинної свідомості, отримане в результаті багаторічних клінічних досліджень. Він переконав мера Шарпа, що проект "Аркхем-Сіті" це єдиний спосіб для Готема викорінити злочинність і «негідників-месників» на кшталт Бетмена.\n\nХодять чутки, що Стрендж проводить на в’язнях етично сумнівні експерименти без їхньої згоди, проте доки не з'являться вагомі докази, громадськість Готема з радістю приписує Стренджу різке зниження рівня злочинності. Стрендж знає, що Бетмен прийде за ним. Більше того — він чекає на це.
 
 [Hush]
 02_REALNAME=Томас «Томмі» Елліот
@@ -252,7 +252,7 @@ ATTRIB_03=Майстер маскування
 ATTRIB_04=Сповнений рішучості знищити Брюса Вейна
 ATTRIB_05=
 INFO_01_NAME=ЦИТЬ
-STORY=Tommy Elliot and Bruce Wayne were childhood friends and, unknown to Bruce, dark reflections of each other.\n\nA childhood sociopath, Elliot tried to kill his parents so he could control their fortune. When his plan failed due to the surgical skills of Thomas Wayne, Bruce's father, Elliot blamed the Wayne family for his problems.\n\nAn incredibly gifted surgeon as an adult, Elliot has spent decades planning an elaborate revenge scheme to destroy Bruce Wayne.
+STORY=Томмі Елліот і Брюс Вейн були друзями дитинства, хоча сам Брюс і не підозрював, наскільки вони є темними віддзеркаленнями один одного.\n\nЩе в дитинстві соціопат Елліот намагався вбити власних батьків, аби заволодіти їхніми статками. Однак його план зазнав невдачі завдяки хірургічній майстерності Томаса Вейна, батька Брюса. Відтоді Елліот поклав на сім’ю Вейнів провину за всі свої негаразди.\n\nУ дорослому віці Еліот, ставши надзвичайно обдарованим хірургом, десятиліттями планував ретельно розроблений план помсти, щоб знищити Брюса Вейна.
 
 [Jack_Ryder]
 02_REALNAME=Джек Райдер
@@ -269,7 +269,7 @@ ATTRIB_03=Відомий своїм суперечливим ток-шоу
 ATTRIB_04=
 ATTRIB_05=
 INFO_01_NAME=ДЖЕК РАЙДЕР
-STORY=Jack Ryder is an investigative reporter turned controversial talk show host, well-known for his aggressive manner and his relentless determination to get to the truth.\n\nWith the opening of the controversial Arkham City at hand, Ryder hopes to discover the roots of this dangerous stronghold and expose them for the good of Gotham.
+STORY=Джек Райдер журналіст-розслідувач, який став ведучим суперечливого ток-шоу, відомий своєю агресивною манерою поведінки та невпинним прагненням докопатися до істини.\n\nУ зв'язку з відкриттям суперечливого Аркхем-Сіті, Райдер сподівається виявити коріння цієї небезпечної установи та викрити їх на благо Ґотему.
 
 [Joker]
 02_REALNAME=Невідоме
