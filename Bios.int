@@ -286,7 +286,7 @@ ATTRIB_03=Невідоме минуле
 ATTRIB_04=Використовує різноманітну смертельну зброю, часто засновану на жартівливих предметах
 ATTRIB_05=Використовує смертельний токсин, який розтягує обличчя жертви в посмішку, як у Джокера
 INFO_01_NAME=ДЖОКЕР
-STORY=The self-styled Clown Prince of Crime has no superpowers beyond a capacity for incredible violence and a skill at creating deadly mayhem.\n\nSince his last encounter with the Dark Knight, the Joker has been transferred to Arkham City. Eyewitnesses claim he is stricken with a serious disease, possibly caused by his Titan overdose on Arkham Island.\n\nHe has been lying low, delivering orders through Harley Quinn, so no one can confirm if the Joker is actually in poor health or playing another sick joke.
+STORY=Самопроголошений Клоун-Принц злочинності не має суперсил, окрім здатності до неймовірного насильства та майстерності у створенні смертоносного хаосу.\n\nПісля останньої зустрічі з Темним Лицарем Джокер був переведений до Аркхем-Сіті. Очевидці стверджують, що він вражений серйозною хворобою, можливо, викликаною передозуванням Титану на острові Аркхем.\n\nВін заліг на дно, передаючи накази через Харлі Квінн, тому ніхто не може підтвердити, чи дійсно Джокер перебуває у поганому стані, чи це ще один його хворий жарт.
 
 [Killer_Croc]
 02_REALNAME=Вейлон Джонс
@@ -303,7 +303,7 @@ ATTRIB_03=Загострені органи чуття та надзвичайн
 ATTRIB_04=Здатність виживати у воді протягом тривалого часу
 ATTRIB_05=Сильна ненависть до людства
 INFO_01_NAME=ВБИВЦЯ КРОК
-STORY=Born with a rare mutation that made his skin green and scaly and grew his body to grotesque proportions, Waylon Jones was raised by an alcoholic aunt and bullied relentlessly for his appearance.\n\nHe briefly worked as a carnival freak under the name Вбивця Крок, but his misanthropy grew with his animal nature, pushing him to a life of crime. As his physical condition and mental state deteriorate, Вбивця Крок becomes a more bestial foe, increasingly detached from humanity.\n\nHis whereabouts are unknown since his escape from Arkham Asylum.
+STORY=Народжений із рідкісною мутацією, яка зробила його шкіру зеленою та лускатою, а тіло виросло до гротескних пропорцій, Вейлон Джонс був вихований алкогольнозалежною тіточкою і постійно піддавався цькуванню через свій зовнішній вигляд.\n\nВін деякий час працював карнавальним фріком під ім’ям Вбивця Крок, але його мізантропія зростала разом із його тваринною природою, штовхаючи його до злочинного життя. Оскільки його фізичний і психічний стан погіршується, Вбивця Крок стає ще більш звірячим ворогом, дедалі більше віддаляючись від людяності.\n\nПісля втечі з Аркхемської лікарні його місцезнаходження залишається невідомим.
 
 [Mad_Hatter]
 02_REALNAME=Джервіс Тетч
